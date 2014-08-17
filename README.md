@@ -4,6 +4,16 @@ This guide has been created to help ensure consistent, scalable and maintainable
 
 # Table of Contents
 
+- General
+ - Syntax
+- HTML
+ - Syntax
+ - Doctype
+- CSS
+ - Syntax
+- JavaScript
+ - Syntax
+
 # Inspiration
 
 - [Code Guide by Mark Otto](http://codeguide.co)
