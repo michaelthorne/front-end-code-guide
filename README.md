@@ -7,12 +7,9 @@ This guide has been created to help ensure consistent, scalable and maintainable
 - General
  - Syntax
 - HTML
- - Syntax
  - Doctype
 - CSS
- - Syntax
 - JavaScript
- - Syntax
 
 # Inspiration
 
