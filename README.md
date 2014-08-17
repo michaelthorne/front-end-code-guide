@@ -6,6 +6,6 @@ This guide has been created to help ensure consistent, scalable and maintainable
 
 # Inspiration
 
-- [Code Guide by @mdo](http://codeguide.co)
-- [CSS Guidelines by @csswizardry](https://github.com/csswizardry/CSS-Guidelines)
-- [Idiomatic CSS by @necolas](https://github.com/necolas/idiomatic-css)
+- [Code Guide by Mark Otto](http://codeguide.co)
+- [CSS Guidelines by Harry Roberts](https://github.com/csswizardry/CSS-Guidelines)
+- [Idiomatic CSS by Nicolas Gallagher](https://github.com/necolas/idiomatic-css)
