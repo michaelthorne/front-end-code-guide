@@ -1,6 +1,6 @@
 # HTML & CSS code guide
 
-This guide has been created to help ensure consistent, scalable and maintainable code. Whilst there are a few great guidelines that already exist (see my [inspiration](#inspiration) for this), I wanted something combined with my own experiences.
+This guide has been created to help ensure consistent, scalable and maintainable code. Whilst there are great guidelines that already exist (see my [inspiration](#inspiration) for this), I wanted something combined with my own experiences.
 
 ## Table of Contents
 
