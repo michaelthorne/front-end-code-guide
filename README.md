@@ -2,7 +2,7 @@
 
 This guide has been created to help ensure consistent, scalable and maintainable code. Whilst there are a few great guidelines that already exist (see [inspiration](#inspiration)), I wanted something combined with my own experiences.
 
-# Table of Contents
+## Table of Contents
 
 - General
  - Syntax
@@ -11,7 +11,7 @@ This guide has been created to help ensure consistent, scalable and maintainable
 - CSS
 - JavaScript
 
-# [Inspiration](#inspiration)
+## [Inspiration](#inspiration)
 
 - [Code Guide by Mark Otto](http://codeguide.co)
 - [CSS Guidelines by Harry Roberts](https://github.com/csswizardry/CSS-Guidelines)
