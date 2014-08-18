@@ -4,12 +4,14 @@ This guide has been created to help ensure consistent, scalable and maintainable
 
 ## Table of Contents
 
-- General
+- [General](#general)
  - Syntax
 - HTML
  - Doctype
 - CSS
 - JavaScript
+
+## [General](#general)
 
 ## [Inspiration](#inspiration)
 
