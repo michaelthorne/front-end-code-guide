@@ -6,8 +6,9 @@ The purpose of this guide is to help us write reasonably consistent, maintainabl
 
 - [1. General](#general)
  - [1.1 Overview](#overview)
-- [2. HTML]
-- 3. Doctype
+- [2. HTML](#html)
+ - [2.1 General](#html-general)
+ - [2.2 Doctype](#html-doctype)
 - 4. CSS
 - 5. JavaScript
 - [6. Inspiration](#inspiration)
@@ -32,6 +33,33 @@ If you have a text editor or IDE that supports [EditorConfig](http://editorconfi
 
 <a name="html"></a>
 ## 2. HTML
+
+<a name="html-general"></a>
+### 2.1 General
+
+This is a basic HTML example with the recommended indenting:
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Title</title>
+</head>
+<body>
+    <main>
+        <h1>Hello world!</h1>
+        <p>This is awesome…</p>
+    </main>
+</body>
+</html>
+```
+
+<a name="html-doctype"></a>
+### 2.2 Doctype
+
+```html
+<!DOCTYPE html>
+```
 
 <a name="inspiration"></a>
 ## 6. Inspiration
