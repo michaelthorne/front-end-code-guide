@@ -69,6 +69,8 @@ This is the HTML5 document type definition (or DTD):
 <a name="html-language"></a>
 ### 2.3 Language
 
+Specify the English language code:
+
 ```html
 <html lang="en">
 ```
