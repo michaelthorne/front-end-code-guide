@@ -4,16 +4,16 @@ The purpose of this guide is to help us write reasonably consistent, maintainabl
 
 ## Table of Contents
 
-- [General](#general)
- - [Syntax](#syntax)
-- HTML
-- Doctype
-- CSS
-- JavaScript
-- Inspiration
+- 1. [General](#general)
+ - 1.1 [Syntax](#syntax)
+- 2. HTML
+- 3. Doctype
+- 4. CSS
+- 5. JavaScript
+- 6. Inspiration
 
 <a name="general"></a>
-## General
+## 1. General
 
 The style in your codebase should appear as if it was written by a single person, regardless of the number of people who contributed to it.
 
@@ -22,10 +22,10 @@ The style in your codebase should appear as if it was written by a single person
 - When in doubt, see if there’s an existing pattern that people are using. Or refer to other [guidelines](#inspiration).
 
 <a name="syntax"></a>
-### Syntax
+### 1.1 Syntax
 
 <a name="inspiration"></a>
-## Inspiration]
+## 6. Inspiration
 
 - [Code Guide by Mark Otto](http://codeguide.co)
 - [CSS Guidelines by Harry Roberts](https://github.com/csswizardry/CSS-Guidelines)
