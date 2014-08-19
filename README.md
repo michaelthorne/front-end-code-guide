@@ -10,6 +10,7 @@ The purpose of this guide is to help us write reasonably consistent, maintainabl
  - [2.1 General](#html-general)
  - [2.2 Doctype](#html-doctype)
  - [2.3 Language](#html-language)
+ - [2.4 Character Encoding](#html-character-encoding)
 - [3. CSS](#css)
 - [4. JavaScript](#less)
 - [5. Inspiration](#inspiration)
@@ -44,6 +45,7 @@ This is a basic HTML document with the recommended **4 space** indenting:
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <meta charset="utf-8" />
     <title>Title</title>
 </head>
 <body>
@@ -76,6 +78,13 @@ Specify the English language [code](http://www.loc.gov/standards/iso639-2/php/co
 ```
 
 > Authors are encouraged to specify a lang attribute on the root html element, giving the document's language. This aids speech synthesis tools to determine what pronunciations to use, translation tools to determine what rules to use, and so forth. – [W3C](http://www.w3.org/TR/html5/semantics.html#the-html-element)
+
+<a name="html-character-encoding"></a>
+### 2.4 Character Encoding
+
+```html
+<meta charset="utf-8" />
+```
 
 <a name="css"></a>
 ## 3. CSS
