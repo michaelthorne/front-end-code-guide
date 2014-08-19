@@ -15,7 +15,7 @@ The purpose of this guide is to help us write reasonably consistent, maintainabl
 <a name="general"></a>
 ## 1. General
 
-The style in your codebase should appear as if it was written by a single person, regardless of the number of people who contributed to it.
+Your codebase should appear as if it was written by a single person, even if multiple people contributed to it.
 
 - It doesn’t matter which guide or code style you ultimately end up using, but just make sure you stick to one.
 - Keep your code readable and easy to understand – be considerate towards the next person who has to work on it.
