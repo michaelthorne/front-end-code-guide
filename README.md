@@ -5,21 +5,27 @@ The purpose of this guide is to help us write reasonably consistent, maintainabl
 ## Table of Contents
 
 - [General](#general)
- - Syntax
+ - [Syntax](#syntax)
 - HTML
- - Doctype
+- Doctype
 - CSS
 - JavaScript
+- Inspiration
 
-## [General](#general)
+<a name="general"></a>
+## General
 
 The style in your codebase should appear as if it was written by a single person, regardless of the number of people who contributed to it.
 
-1. It doesn’t matter which guide or code style you ultimately end up using, but just make sure you stick to one.
-2. Keep your code readable and easy to understand at all times – be considerate towards the next person who has to work on it.
-3. When in doubt, see if there’s an existing pattern that people are using. Or refer to other [guidelines](#inspiration).
+- It doesn’t matter which guide or code style you ultimately end up using, but just make sure you stick to one.
+- Keep your code readable and easy to understand at all times – be considerate towards the next person who has to work on it.
+- When in doubt, see if there’s an existing pattern that people are using. Or refer to other [guidelines](#inspiration).
 
-## [Inspiration](#inspiration)
+<a name="syntax"></a>
+### Syntax
+
+<a name="inspiration"></a>
+## Inspiration]
 
 - [Code Guide by Mark Otto](http://codeguide.co)
 - [CSS Guidelines by Harry Roberts](https://github.com/csswizardry/CSS-Guidelines)
