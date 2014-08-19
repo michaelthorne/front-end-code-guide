@@ -9,9 +9,10 @@ The purpose of this guide is to help us write reasonably consistent, maintainabl
 - [2. HTML](#html)
  - [2.1 General](#html-general)
  - [2.2 Doctype](#html-doctype)
-- 4. CSS
-- 5. JavaScript
-- [6. Inspiration](#inspiration)
+ - [2.3 Language](#html-language)
+- [3. CSS](#css)
+- [4. JavaScript](#less)
+- [5. Inspiration](#inspiration)
 
 <a name="general"></a>
 ## 1. General
@@ -63,12 +64,25 @@ This is the HTML5 document type definition (or DTD):
 <!DOCTYPE html>
 ```
 
-#### Why specify a doctype?
-
 > Including the DOCTYPE in a document ensures that the browser makes a best-effort attempt at following the relevant specifications. – [W3C](http://www.w3.org/TR/html5/syntax.html#the-doctype)
 
+<a name="html-language"></a>
+### 2.3 Language
+
+```html
+<html lang="en">
+```
+
+> Authors are encouraged to specify a lang attribute on the root html element, giving the document's language. This aids speech synthesis tools to determine what pronunciations to use, translation tools to determine what rules to use, and so forth. – [W3C](http://www.w3.org/TR/html5/semantics.html#the-html-element)
+
+<a name="css"></a>
+## 3. CSS
+
+<a name="js"></a>
+## 4. JavaScript
+
 <a name="inspiration"></a>
-## 6. Inspiration
+## 5. Inspiration
 
 - [Google HTML/CSS Style Guide](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml)
 - [Idiomatic CSS by Nicolas Gallagher](https://github.com/necolas/idiomatic-css)
