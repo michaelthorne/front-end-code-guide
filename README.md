@@ -63,7 +63,7 @@ This is the HTML5 document type definition (or DTD):
 <!DOCTYPE html>
 ```
 
-#### Why?
+#### Why specify a doctype?
 
 > Including the DOCTYPE in a document ensures that the browser makes a best-effort attempt at following the relevant specifications. – [W3C](http://www.w3.org/TR/html5/syntax.html#the-doctype)
 
