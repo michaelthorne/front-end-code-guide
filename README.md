@@ -37,7 +37,7 @@ If you have a text editor or IDE that supports [EditorConfig](http://editorconfi
 <a name="html-general"></a>
 ### 2.1 General
 
-This is a basic HTML example with the recommended indenting:
+This is a basic HTML document with the recommended **4 space** indenting:
 
 ```html
 <!DOCTYPE html>
@@ -60,6 +60,10 @@ This is a basic HTML example with the recommended indenting:
 ```html
 <!DOCTYPE html>
 ```
+
+#### Why?
+
+> Including the DOCTYPE in a document ensures that the browser makes a best-effort attempt at following the relevant specifications. – [W3C](http://www.w3.org/TR/html5/syntax.html#the-doctype)
 
 <a name="inspiration"></a>
 ## 6. Inspiration
