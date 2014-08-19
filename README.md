@@ -69,7 +69,7 @@ This is the HTML5 document type definition (or DTD):
 <a name="html-language"></a>
 ### 2.3 Language
 
-Specify the English language code:
+Specify the English language [code](http://www.loc.gov/standards/iso639-2/php/code_list.php):
 
 ```html
 <html lang="en">
