@@ -4,13 +4,13 @@ The purpose of this guide is to help us write reasonably consistent, maintainabl
 
 ## Table of Contents
 
-- 1. [General](#general)
- - 1.1 [Syntax](#syntax)
+- [1. General](#general)
+ - [1.1 Syntax](#syntax)
 - 2. HTML
 - 3. Doctype
 - 4. CSS
 - 5. JavaScript
-- 6. Inspiration
+- [6. Inspiration](#inspiration)
 
 <a name="general"></a>
 ## 1. General
