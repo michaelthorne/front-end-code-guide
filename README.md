@@ -60,7 +60,7 @@ This is a basic HTML document with the recommended **4 space** indenting:
 <a name="html-doctype"></a>
 ### 2.2 Doctype
 
-This is the HTML5 document type definition (or DTD):
+Include the HTML5 document type definition (or DTD):
 
 ```html
 <!DOCTYPE html>
@@ -81,6 +81,8 @@ Specify the English language [code](http://www.loc.gov/standards/iso639-2/php/co
 
 <a name="html-character-encoding"></a>
 ### 2.4 Character Encoding
+
+Define the HTML document’s character set as [utf-8](http://www.utf-8.com):
 
 ```html
 <meta charset="utf-8" />
