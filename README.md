@@ -5,7 +5,7 @@ The purpose of this guide is to help us write reasonably consistent, maintainabl
 ## Table of Contents
 
 - [1. General](#general)
- - [1.1 Syntax](#syntax)
+ - [1.1 Overview](#overview)
 - 2. HTML
 - 3. Doctype
 - 4. CSS
@@ -21,8 +21,14 @@ Your codebase should appear as if it was written by a single person, even if mul
 - Keep your code readable and easy to understand – be considerate towards the next person who has to work on it.
 - When in doubt, see if there’s an existing pattern that people are using. Or refer to other [guidelines](#inspiration).
 
-<a name="syntax"></a>
-### 1.1 Syntax
+<a name="overview"></a>
+### 1.1 Overview
+
+If you have a text editor or IDE that supports [EditorConfig](http://editorconfig.org), I highly recommend using it.
+
+- Use 4 spaces for indenting instead of tabs to ensure consistency (_never_ mix spaces and tabs)
+- Make use of whitespace to improve readability of the code
+- Consider a sensible maximum for line-length e.g. 80 character wide columns
 
 <a name="inspiration"></a>
 ## 6. Inspiration
