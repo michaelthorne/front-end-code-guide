@@ -33,6 +33,7 @@ If you have a text editor or IDE that supports [EditorConfig](http://editorconfi
 <a name="inspiration"></a>
 ## 6. Inspiration
 
-- [Code Guide by Mark Otto](http://codeguide.co)
-- [CSS Guidelines by Harry Roberts](https://github.com/csswizardry/CSS-Guidelines)
+- [Google HTML/CSS Style Guide](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml)
 - [Idiomatic CSS by Nicolas Gallagher](https://github.com/necolas/idiomatic-css)
+- [CSS Guidelines by Harry Roberts](https://github.com/csswizardry/CSS-Guidelines)
+- [Code Guide by Mark Otto](http://codeguide.co)
