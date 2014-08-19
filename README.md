@@ -57,6 +57,8 @@ This is a basic HTML document with the recommended **4 space** indenting:
 <a name="html-doctype"></a>
 ### 2.2 Doctype
 
+This is the HTML5 document type definition (or DTD):
+
 ```html
 <!DOCTYPE html>
 ```
