@@ -41,7 +41,7 @@ This is a basic HTML document with the recommended **4 space** indenting:
 
 ```html
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
     <title>Title</title>
 </head>
