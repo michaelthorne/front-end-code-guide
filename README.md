@@ -6,7 +6,7 @@ The purpose of this guide is to help us write reasonably consistent, maintainabl
 
 - [1. General](#general)
  - [1.1 Overview](#overview)
-- 2. HTML
+- [2. HTML]
 - 3. Doctype
 - 4. CSS
 - 5. JavaScript
@@ -29,6 +29,9 @@ If you have a text editor or IDE that supports [EditorConfig](http://editorconfi
 - Use **4 spaces** for indenting instead of tabs to ensure consistency (_never_ mix spaces and tabs)
 - Consider a sensible maximum for line-length e.g. **80 character** wide columns
 - Make use of whitespace to _improve_ readability of the code
+
+<a name="html"></a>
+## 2. HTML
 
 <a name="inspiration"></a>
 ## 6. Inspiration
