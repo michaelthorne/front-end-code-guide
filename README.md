@@ -48,15 +48,23 @@ This is a basic HTML document with the recommended **4 space** indenting:
 <head>
     <meta charset="utf-8" />
     <title>Title</title>
+    <link rel="stylesheet" href="main.css" />
 </head>
 <body>
     <main>
         <h1>Hello world!</h1>
         <p>This is awesome…</p>
     </main>
+    <script src="main.js"></script>
 </body>
 </html>
 ```
+
+- Always use lowercase for HTML element names, attributes and attribute values
+- Only use double quotes around attribute values
+ - i.e. `""` and not `''`
+- Omit the `type` attribute for style sheets and scripts (unless you’re not using CSS or JavaScript)
+ - HTML5 implies defaults of `text/css` and `text/javascript` in these contexts
 
 <a name="html-document-type-definition"></a>
 ### 2.2 Document Type Definition (DTD):
