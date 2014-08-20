@@ -112,7 +112,7 @@ Ensure that Internet Explorer uses the latest engine:
 <a name="html-validation"></a>
 ### x.x Validation
 
-Ensure that you use valid HTML wherever possible. Use a tool like the [W3C Markup Validation Service](http://validator.w3.org) to test your code.
+Ensure that you use valid HTML wherever possible. Use a tool like the [W3C Markup Validation Service](http://validator.w3.org) to regularly test your code.
 
 <a name="css"></a>
 ## 3. CSS
