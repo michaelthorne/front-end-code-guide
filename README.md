@@ -8,9 +8,10 @@ The purpose of this guide is to help us write reasonably consistent, maintainabl
  - [1.1 Overview](#overview)
 - [2. HTML](#html)
  - [2.1 General](#html-general)
- - [2.2 Doctype](#html-doctype)
+ - [2.2 Document Type Definition (DTD)](#html-document-type-definition)
  - [2.3 Language](#html-language)
  - [2.4 Character Encoding](#html-character-encoding)
+ - [2.5 Internet Explorer Compatibility Mode](#html-ie-compatibility-mode)
 - [3. CSS](#css)
 - [4. JavaScript](#less)
 - [5. Inspiration](#inspiration)
@@ -57,10 +58,10 @@ This is a basic HTML document with the recommended **4 space** indenting:
 </html>
 ```
 
-<a name="html-doctype"></a>
-### 2.2 Doctype
+<a name="html-document-type-definition"></a>
+### 2.2 Document Type Definition (DTD):
 
-Include the HTML5 document type definition (or DTD):
+Include the HTML5 doctype:
 
 ```html
 <!DOCTYPE html>
@@ -89,6 +90,17 @@ Define the HTML document’s character set as [utf-8](http://www.utf-8.com):
 ```
 
 > Unicode is a universal character set, ie. a standard that defines, in one place, all the characters needed for writing the majority of living languages in use on computers. It aims to be, and to a large extent already is, a superset of all other character sets that have been encoded. – [W3C](http://www.w3.org/International/articles/definitions-characters)
+
+<a name="html-internet-explorer-compatibility-mode"></a>
+### 2.5 Internet Explorer Compatibility Mode
+
+Ensure that Internet Explorer uses the latest engine:
+
+```html
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+```
+
+> The idea behind compatibility mode is to allow web sites and applications that are not designed to modern standards to continue to work while upgrades can be made, allowing end users to upgrade to the latest browser version. Designating 'IE=edge' is the best practice because it ensures Internet Explorer uses the latest engine. The most current Internet Explorer version includes the latest security updates as well as feature support. The current version is also the fastest version. – [modern.IE](https://www.modern.ie/en-us/performance/how-to-use-x-ua-compatible)
 
 <a name="css"></a>
 ## 3. CSS
