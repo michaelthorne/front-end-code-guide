@@ -12,6 +12,7 @@ The purpose of this guide is to help us write reasonably consistent, maintainabl
  - [2.3 Language](#html-language)
  - [2.4 Character Encoding](#html-character-encoding)
  - [2.5 Internet Explorer Compatibility Mode](#html-internet-explorer-compatibility-mode)
+ - [x.x Validation](#html-validation)
 - [3. CSS](#css)
 - [4. JavaScript](#less)
 - [5. Inspiration](#inspiration)
@@ -61,8 +62,8 @@ This is a basic HTML document with the recommended **4 space** indenting:
 ```
 
 - Always use lowercase for HTML element names, attributes and attribute values
-- Only use double quotes (`""` and not `''`) around attribute values
-- Omit the `type` attribute for style sheets and scripts (unless you’re not using CSS or JavaScript). HTML5 implies defaults of `text/css` and `text/javascript` in these contexts
+- Only use double quotes (`""`) around attribute values
+- Omit the `type` attribute for style sheets and scripts (unless you’re not using CSS or JavaScript)
 
 <a name="html-document-type-definition"></a>
 ### 2.2 Document Type Definition (DTD):
@@ -107,6 +108,13 @@ Ensure that Internet Explorer uses the latest engine:
 ```
 
 > The idea behind compatibility mode is to allow web sites and applications that are not designed to modern standards to continue to work while upgrades can be made, allowing end users to upgrade to the latest browser version. Designating 'IE=edge' is the best practice because it ensures Internet Explorer uses the latest engine. The most current Internet Explorer version includes the latest security updates as well as feature support. The current version is also the fastest version. – [modern.IE](https://www.modern.ie/en-us/performance/how-to-use-x-ua-compatible)
+
+<a name="html-validation"></a>
+### x.x Validation
+
+Use validation HTML wherever possible. And validate your code regularly to ensure it is error-free.
+
+- [W3C Markup Validation Service](http://validator.w3.org)
 
 <a name="css"></a>
 ## 3. CSS
