@@ -84,6 +84,8 @@ Specify the language [code](http://www.loc.gov/standards/iso639-2/php/code_list.
 
 Define the HTML document’s character set as [utf-8](http://www.utf-8.com):
 
+> Unicode is a universal character set, ie. a standard that defines, in one place, all the characters needed for writing the majority of living languages in use on computers. It aims to be, and to a large extent already is, a superset of all other character sets that have been encoded. – [W3C](http://www.w3.org/International/articles/definitions-characters)
+
 ```html
 <meta charset="utf-8" />
 ```
