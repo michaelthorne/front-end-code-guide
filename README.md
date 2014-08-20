@@ -11,7 +11,7 @@ The purpose of this guide is to help us write reasonably consistent, maintainabl
  - [2.2 Document Type Definition (DTD)](#html-document-type-definition)
  - [2.3 Language](#html-language)
  - [2.4 Character Encoding](#html-character-encoding)
- - [2.5 Internet Explorer Compatibility Mode](#html-ie-compatibility-mode)
+ - [2.5 Internet Explorer Compatibility Mode](#html-internet-explorer-compatibility-mode)
 - [3. CSS](#css)
 - [4. JavaScript](#less)
 - [5. Inspiration](#inspiration)
