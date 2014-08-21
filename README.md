@@ -1,6 +1,6 @@
 # HTML & CSS code guide
 
-The purpose of this guide is to help us write reasonably consistent, maintainable and scalable code. Whilst there are brilliant [guidelines](#inspiration) that already exist, I wanted to create one based on my own experiences. Please [open an issue on GitHub](https://github.com/michaelthorne/codeguide/issues/new) if you’d like to contribute.
+The purpose of this guide is to help us write reasonably consistent, maintainable and scalable code. Whilst there are brilliant [guidelines](#inspiration) that already exist, this condensed guide will help you get started. Please [open an issue on GitHub](https://github.com/michaelthorne/codeguide/issues/new) if you’d like to contribute.
 
 ## Table of Contents
 
@@ -116,7 +116,11 @@ Ensure that Internet Explorer uses the latest engine:
 <a name="html-using-wai-aria"></a>
 ### x.x Using WAI-ARIA in HTML
 
+The main goal of the ARIA specification is to improve the overall accessibility of websites.
+
 > WAI-ARIA, the Accessible Rich Internet Applications Suite, defines a way to make Web content and Web applications more accessible to people with disabilities. It especially helps with dynamic content and advanced user interface controls developed with Ajax, HTML, JavaScript, and related technologies. – [WAI-ARIA Overview](http://www.w3.org/WAI/intro/aria)
+
+As per the W3C draft, [Using WAI-ARIA in HTML](http://www.w3.org/TR/aria-in-html), use native HTML elements wherever possible as it will have the semantics and required behaviour built-in.
 
 <a name="html-validation"></a>
 ### x.x Validation
