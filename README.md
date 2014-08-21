@@ -51,13 +51,13 @@ This is a basic HTML document with the recommended **4 space** indenting:
 <head>
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <title>Title</title>
+    <title>HTML & CSS code guide</title>
     <link rel="stylesheet" href="style.css" />
 </head>
 <body>
-    <main>
-        <h1>Hello world!</h1>
-        <p>This is awesome…</p>
+    <main role="main">
+        <h1>HTML & CSS code guide</h1>
+        <p>The purpose of this guide…</p>
     </main>
     <script src="script.js"></script>
 </body>
