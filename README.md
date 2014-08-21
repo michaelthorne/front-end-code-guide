@@ -125,7 +125,7 @@ As per the W3C draft, [Using WAI-ARIA in HTML](http://www.w3.org/TR/aria-in-html
 <a name="html-validation"></a>
 ### x.x Validation
 
-Ensure that you use valid HTML wherever possible. Use tools like the [W3C Markup Validation Service](http://validator.w3.org) or the [Nu Markup Checker](http://validator.w3.org/nu). There is also a [grunt-html-validation](https://www.npmjs.org/package/grunt-html-validation) plugin available.
+Ensure that you use valid HTML wherever possible. Use tools like the [W3C Markup Validation Service](http://validator.w3.org) or the [Nu Markup Checker](http://validator.w3.org/nu). There is also a [grunt-html-validation](https://www.npmjs.org/package/grunt-html-validation) plugin.
 
 <a name="css"></a>
 ## 3. CSS
