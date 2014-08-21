@@ -49,14 +49,14 @@ This is a basic HTML document with the recommended **4 space** indenting:
 <head>
     <meta charset="utf-8" />
     <title>Title</title>
-    <link rel="stylesheet" href="main.css" />
+    <link rel="stylesheet" href="style.css" />
 </head>
 <body>
     <main>
         <h1>Hello world!</h1>
         <p>This is awesome…</p>
     </main>
-    <script src="main.js"></script>
+    <script src="script.js"></script>
 </body>
 </html>
 ```
