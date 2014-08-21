@@ -56,7 +56,7 @@ This is a basic HTML document with the recommended **4 space** indenting:
 </head>
 <body>
     <main role="main">
-        <h1>HTML & CSS code guide</h1>
+        <h1>Table of Contents</h1>
         <p>The purpose of this guide…</p>
     </main>
     <script src="script.js"></script>
