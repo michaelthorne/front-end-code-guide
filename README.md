@@ -120,7 +120,7 @@ The main goal of the ARIA specification is to improve the overall accessibility 
 
 > WAI-ARIA, the Accessible Rich Internet Applications Suite, defines a way to make Web content and Web applications more accessible to people with disabilities. It especially helps with dynamic content and advanced user interface controls developed with Ajax, HTML, JavaScript, and related technologies. – [WAI-ARIA Overview](http://www.w3.org/WAI/intro/aria)
 
-As per the W3C draft, [Using WAI-ARIA in HTML](http://www.w3.org/TR/aria-in-html), use native HTML elements wherever possible as it will have the semantics and required behaviour built-in.
+As per the W3C draft, [using WAI-ARIA in HTML](http://www.w3.org/TR/aria-in-html), rather use native HTML elements wherever possible as it will have the semantics and required behaviour built-in.
 
 <a name="html-validation"></a>
 ### x.x Validation
