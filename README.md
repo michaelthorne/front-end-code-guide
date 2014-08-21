@@ -48,6 +48,7 @@ This is a basic HTML document with the recommended **4 space** indenting:
 <html lang="en">
 <head>
     <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <title>Title</title>
     <link rel="stylesheet" href="style.css" />
 </head>
@@ -64,6 +65,7 @@ This is a basic HTML document with the recommended **4 space** indenting:
 - Always use lowercase for HTML element names, attributes and attribute values
 - Only use double quotes (`""`) around attribute values
 - Omit the `type` attribute for style sheets and scripts (unless you’re not using CSS or JavaScript)
+- Remove any trailing whitespace
 
 <a name="html-document-type-definition"></a>
 ### 2.2 Document Type Definition (DTD):
