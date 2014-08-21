@@ -79,7 +79,7 @@ Include the HTML5 doctype:
 <!doctype html>
 ```
 
-> Including the DOCTYPE in a document ensures that the browser makes a best-effort attempt at following the relevant specifications. – [W3C](http://www.w3.org/TR/html5/syntax.html#the-doctype)
+> Including the doctype in a document ensures that the browser makes a best-effort attempt at following the relevant specifications. – [W3C](http://www.w3.org/TR/html5/syntax.html#the-doctype)
 
 <a name="html-language"></a>
 ### 2.3 Language
