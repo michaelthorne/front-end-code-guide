@@ -64,7 +64,7 @@ This is a basic HTML document with the recommended **4 space** indenting:
 
 - Always use lowercase for HTML element names, attributes and attribute values
 - Only use double quotes (`""`) around attribute values
-- Omit the `type` attribute for style sheets and scripts (unless you’re not using CSS or JavaScript)
+- You can omit the `type` attribute for style sheets and scripts (unless you’re not using CSS or JavaScript)
 - Remove any trailing whitespace
 
 <a name="html-document-type-definition"></a>
