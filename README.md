@@ -46,7 +46,7 @@ Use [EditorConfig](http://editorconfig.org) if your IDE or text editor supports 
 This is a basic HTML document with the recommended **4 space** indenting:
 
 ```html
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
 <head>
     <meta charset="utf-8" />
@@ -76,7 +76,7 @@ This is a basic HTML document with the recommended **4 space** indenting:
 Include the HTML5 doctype:
 
 ```html
-<!DOCTYPE html>
+<!doctype html>
 ```
 
 > Including the DOCTYPE in a document ensures that the browser makes a best-effort attempt at following the relevant specifications. – [W3C](http://www.w3.org/TR/html5/syntax.html#the-doctype)
