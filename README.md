@@ -12,6 +12,7 @@ The purpose of this guide is to help us write reasonably consistent, maintainabl
  - [2.3 Language](#html-language)
  - [2.4 Character Encoding](#html-character-encoding)
  - [2.5 Internet Explorer Compatibility Mode](#html-internet-explorer-compatibility-mode)
+ - [x.x Using WAI-ARIA in HTML](#html-using-wai-aria)
  - [x.x Validation](#html-validation)
 - [3. CSS](#css)
 - [4. JavaScript](#less)
@@ -111,6 +112,11 @@ Ensure that Internet Explorer uses the latest engine:
 ```
 
 > The idea behind compatibility mode is to allow web sites and applications that are not designed to modern standards to continue to work while upgrades can be made, allowing end users to upgrade to the latest browser version. Designating 'IE=edge' is the best practice because it ensures Internet Explorer uses the latest engine. The most current Internet Explorer version includes the latest security updates as well as feature support. The current version is also the fastest version. – [modern.IE](https://www.modern.ie/en-us/performance/how-to-use-x-ua-compatible)
+
+<a name="html-using-wai-aria"></a>
+### x.x Using WAI-ARIA in HTML
+
+> WAI-ARIA, the Accessible Rich Internet Applications Suite, defines a way to make Web content and Web applications more accessible to people with disabilities. It especially helps with dynamic content and advanced user interface controls developed with Ajax, HTML, JavaScript, and related technologies. – [WAI-ARIA Overview](http://www.w3.org/WAI/intro/aria)
 
 <a name="html-validation"></a>
 ### x.x Validation
