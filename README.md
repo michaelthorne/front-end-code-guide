@@ -23,9 +23,9 @@ The purpose of this guide is to help us write reasonably consistent, maintainabl
 
 Your codebase should appear as if it was written by a single person, even if multiple people contributed to it.
 
-- It doesn’t matter which guide or code style you ultimately end up using, but just make sure you stick to one.
-- Keep your code readable and easy to understand – be considerate towards the next person who has to work on it.
-- When in doubt, see if there’s an existing pattern that people are using. Or refer to other [guidelines](#inspiration).
+- It doesn’t matter which guide or style you use, but ensure that you stick to one
+- Keep your code readable and easy to understand – think about the next person who has to work on it
+- When in doubt, see if there’s an existing pattern that people are using or refer to other [guidelines](#inspiration)
 
 <a name="overview"></a>
 ### 1.1 Overview
