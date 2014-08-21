@@ -11,7 +11,7 @@ The purpose of this guide is to help us write reasonably consistent, maintainabl
  - [2.2 Document Type Definition (DTD)](#html-document-type-definition)
  - [2.3 Language](#html-language)
  - [2.4 Character Encoding](#html-character-encoding)
- - [2.5 Internet Explorer Compatibility Mode](#html-internet-explorer-compatibility-mode)
+ - [2.5 IE Compatibility Mode](#html-ie-compatibility-mode)
  - [x.x Using WAI-ARIA in HTML](#html-using-wai-aria)
  - [x.x Validation](#html-validation)
 - [3. CSS](#css)
@@ -103,8 +103,8 @@ Define the HTML document’s character set as [utf-8](http://www.utf-8.com):
 
 > Unicode is a universal character set, ie. a standard that defines, in one place, all the characters needed for writing the majority of living languages in use on computers. It aims to be, and to a large extent already is, a superset of all other character sets that have been encoded. – [W3C](http://www.w3.org/International/articles/definitions-characters)
 
-<a name="html-internet-explorer-compatibility-mode"></a>
-### 2.5 Internet Explorer Compatibility Mode
+<a name="html-ie-compatibility-mode"></a>
+### 2.5 IE Compatibility Mode
 
 Ensure that Internet Explorer uses the latest engine:
 
