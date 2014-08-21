@@ -16,7 +16,8 @@ The purpose of this guide is to help us write reasonably consistent, maintainabl
  - [x.x Validation](#html-validation)
 - [3. CSS](#css)
 - [4. JavaScript](#less)
-- [5. Inspiration](#inspiration)
+- [5. References](#references)
+- [6. Inspiration](#inspiration)
 
 <a name="general"></a>
 ## 1. General
@@ -133,8 +134,15 @@ Ensure that you use valid HTML wherever possible. Use tools like the [W3C Markup
 <a name="js"></a>
 ## 4. JavaScript
 
+<a name="references"></a>
+## 5. References
+
+- [HTML5 Doctor](http://html5doctor.com)
+- [Mozilla Developer Network](https://developer.mozilla.org)
+- [World Wide Web Consortium (W3C)](http://www.w3.org)
+
 <a name="inspiration"></a>
-## 5. Inspiration
+## 6. Inspiration
 
 - [Google HTML/CSS Style Guide](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml)
 - [Idiomatic CSS by Nicolas Gallagher](https://github.com/necolas/idiomatic-css)
