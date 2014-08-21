@@ -66,6 +66,7 @@ This is a basic HTML document with the recommended **4 space** indenting:
 - Only use double quotes (`""`) around attribute values
 - You can omit the `type` attribute for style sheets and scripts (unless you’re not using CSS or JavaScript)
 - Remove any trailing whitespace (at the end of each line)
+- Use a new line for every [block-level](https://developer.mozilla.org/en-US/docs/Web/HTML/Block-level_elements) element
 
 <a name="html-document-type-definition"></a>
 ### 2.2 Document Type Definition (DTD):
