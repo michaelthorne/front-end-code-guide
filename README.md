@@ -138,6 +138,7 @@ Ensure that you use valid HTML wherever possible. Use tools like the [W3C Markup
 ## 5. References
 
 - [HTML5 Doctor](http://html5doctor.com)
+- [Dive Into HTML5](http://diveintohtml5.info)
 - [Mozilla Developer Network](https://developer.mozilla.org)
 - [World Wide Web Consortium (W3C)](http://www.w3.org)
 
