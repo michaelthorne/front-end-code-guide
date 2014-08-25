@@ -90,7 +90,7 @@ Include the HTML5 doctype:
 <a name="html-language"></a>
 ### 2.4 Language
 
-Specify the language [code](http://www.loc.gov/standards/iso639-2/php/code_list.php) (English):
+Specify the language [code](http://www.loc.gov/standards/iso639-2/php/code_list.php) for your HTML document:
 
 ```html
 <html lang="en">
