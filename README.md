@@ -90,6 +90,8 @@ These are examples of void elements in HTML: `br`, `embed`, `hr`, `img`, `input`
 
 Tags are used to mark the start and end of HTML elements. Optionally, tags can have attributes.
 
+Example of a start tag: `<p>`
+
 #### HTML Attributes
 
 Attributes have a `name` and `value` and are specified in the element’s start tag.
