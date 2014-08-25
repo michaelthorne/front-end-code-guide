@@ -8,12 +8,13 @@ The purpose of this guide is to help us write reasonably consistent, maintainabl
  - [1.1 Overview](#overview)
 - [2. HTML](#html)
  - [2.1 General](#html-general)
- - [2.2 Document Type Definition (DTD)](#html-document-type-definition)
- - [2.3 Language](#html-language)
- - [2.4 Character Encoding](#html-character-encoding)
- - [2.5 Internet Explorer Compatibility Mode](#html-internet-explorer-compatibility-mode)
- - [2.6 Attribute Order](#html-attribute-order)
- - [2.7 Semantics](#html-semantics)
+ - [2.2 Terminology](#html-terminology)
+ - [2.3 Document Type Definition (DTD)](#html-document-type-definition)
+ - [2.4 Language](#html-language)
+ - [2.5 Character Encoding](#html-character-encoding)
+ - [2.6 Internet Explorer Compatibility Mode](#html-internet-explorer-compatibility-mode)
+ - [2.7 Attribute Order](#html-attribute-order)
+ - [2.8 Semantics](#html-semantics)
  - [x.x Using WAI-ARIA in HTML](#html-using-wai-aria)
  - [x.x Validation](#html-validation)
 - [3. CSS](#css)
@@ -66,14 +67,17 @@ This is a basic HTML document with the recommended **4 space** indenting:
 </html>
 ```
 
-- Always use lowercase for HTML element names, attributes and attribute values
+- Always use lowercase for HTML tag names, attributes and attribute values
 - Only use double quotes (`""`) around attribute values
 - You can omit the `type` attribute for style sheets and scripts (unless you’re not using CSS or JavaScript)
 - Remove any trailing whitespace from the end of each line
 - Use a new line for every [block-level](https://developer.mozilla.org/en-US/docs/Web/HTML/Block-level_elements) element
 
+<a name="html-terminology"></a>
+### 2.2 Terminology
+
 <a name="html-document-type-definition"></a>
-### 2.2 Document Type Definition (DTD):
+### 2.3 Document Type Definition (DTD):
 
 Include the HTML5 doctype:
 
@@ -84,7 +88,7 @@ Include the HTML5 doctype:
 > Including the doctype in a document ensures that the browser makes a best-effort attempt at following the relevant specifications. – [W3C](http://www.w3.org/TR/html5/syntax.html#the-doctype)
 
 <a name="html-language"></a>
-### 2.3 Language
+### 2.4 Language
 
 Specify the language [code](http://www.loc.gov/standards/iso639-2/php/code_list.php) (English):
 
@@ -95,7 +99,7 @@ Specify the language [code](http://www.loc.gov/standards/iso639-2/php/code_list.
 > Authors are encouraged to specify a lang attribute on the root html element, giving the document's language. This aids speech synthesis tools to determine what pronunciations to use, translation tools to determine what rules to use, and so forth. – [W3C](http://www.w3.org/TR/html5/semantics.html#the-html-element)
 
 <a name="html-character-encoding"></a>
-### 2.4 Character Encoding
+### 2.5 Character Encoding
 
 Define the HTML document’s character set as [utf-8](http://www.utf-8.com):
 
@@ -106,7 +110,7 @@ Define the HTML document’s character set as [utf-8](http://www.utf-8.com):
 > Unicode is a universal character set, ie. a standard that defines, in one place, all the characters needed for writing the majority of living languages in use on computers. It aims to be, and to a large extent already is, a superset of all other character sets that have been encoded. – [W3C](http://www.w3.org/International/articles/definitions-characters)
 
 <a name="html-internet-explorer-compatibility-mode"></a>
-### 2.5 Internet Explorer Compatibility Mode
+### 2.6 Internet Explorer Compatibility Mode
 
 Ensure that IE uses the latest engine:
 
@@ -117,7 +121,7 @@ Ensure that IE uses the latest engine:
 > The idea behind compatibility mode is to allow web sites and applications that are not designed to modern standards to continue to work while upgrades can be made, allowing end users to upgrade to the latest browser version. Designating 'IE=edge' is the best practice because it ensures Internet Explorer uses the latest engine. The most current Internet Explorer version includes the latest security updates as well as feature support. The current version is also the fastest version. – [modern.IE](https://www.modern.ie/en-us/performance/how-to-use-x-ua-compatible)
 
 <a name="html-attribute-order"></a>
-### 2.5 Attribute Order
+### 2.7 Attribute Order
 
 In order to improve the general readability of code, it is recommended to place tag attributes in the following:
 
@@ -156,7 +160,7 @@ This is an example of the recommended attribute order for a tag:
 _These suggestions are based on [@mdo’s Code Guide](http://codeguide.co/#html-attribute-order)._
 
 <a name="html-semantics"></a>
-### 2.6 Semantics
+### 2.8 Semantics
 
 <a name="html-using-wai-aria"></a>
 ### x.x Using WAI-ARIA in HTML
