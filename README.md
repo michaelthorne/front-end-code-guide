@@ -94,6 +94,10 @@ Tags are used to mark the start and end of HTML elements. Optionally tags can ha
 
 Attributes have a `name` and `value` and are specified in the element’s start tag.
 
+Example of an element’s attributes: `<img src="" alt="" />`
+
+Note: **`alt`** is an attribute and not a tag.
+
 <a name="html-document-type-definition"></a>
 ### 2.3 Document Type Definition (DTD):
 
