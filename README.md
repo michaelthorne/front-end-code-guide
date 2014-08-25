@@ -98,7 +98,9 @@ Example of an end tag: `</p>`
 
 Attributes have a `name` and `value` and are specified in the element’s start tag.
 
-Example of an element’s attributes: `<img src="" alt="" />` _Note: `alt` is an attribute and not a tag._
+Example of an element’s attributes: `<img src="" alt="" />`
+
+_Note: `alt` is an attribute and not a tag._
 
 <a name="html-document-type-definition"></a>
 ### 2.3 Document Type Definition (DTD):
@@ -158,25 +160,25 @@ In order to improve the general readability of code, it is recommended to place 
 - `aria-*`, `role`
 - `data-*`
 
-This is an example of the recommended attribute order for an image:
+This is an example of the recommended attribute order for an **image**:
 
 ```html
 <img src="…" width="…" height="…" title="…" alt="…" />
 ```
 
-This is an example of the recommended attribute order for a form control:
+This is an example of the recommended attribute order for a **form control**:
 
 ```html
 <input class="…" name="…" type="…" />
 ```
 
-This is an example of the recommended attribute order for an anchor:
+This is an example of the recommended attribute order for an **anchor**:
 
 ```html
 <a href="" title="…" data-attribute="…">
 ```
 
-This is an example of the recommended attribute order for a tag:
+This is an example of the recommended attribute order for a **tag**:
 
 ```html
 <div class="" id="" aria-controls="" role="">
