@@ -76,6 +76,24 @@ This is a basic HTML document with the recommended **4 space** indenting:
 <a name="html-terminology"></a>
 ### 2.2 Terminology
 
+#### HTML Elements
+
+Elements typically consist of a start and end tag, attributes and contents. The contents of an element may consist of other elements.
+
+Example of an element: `<p>This is the content of a paragraph element.</p>`
+
+[Void elements](http://www.w3.org/TR/html-markup/syntax.html#void-element) can never have contents, but they may have attributes.
+
+Examples of void elements are: `<br />`, `<hr />`, `<img />`, `<input />`
+
+#### HTML Tags
+
+Tags are used to mark the start and end of HTML elements. Optionally tags can have attributes.
+
+#### HTML Attributes
+
+Attributes have a `name` and `value` and are specified in the element’s start tag.
+
 <a name="html-document-type-definition"></a>
 ### 2.3 Document Type Definition (DTD):
 
@@ -186,8 +204,9 @@ Ensure that you use valid HTML wherever possible. Use tools like the [W3C Markup
 <a name="references"></a>
 ## 5. References
 
-- [HTML5 Doctor](http://html5doctor.com)
+- [456 Berea Street](http://www.456bereastreet.com)
 - [Dive Into HTML5](http://diveintohtml5.info)
+- [HTML5 Doctor](http://html5doctor.com)
 - [Mozilla Developer Network](https://developer.mozilla.org)
 - [World Wide Web Consortium (W3C)](http://www.w3.org)
 
