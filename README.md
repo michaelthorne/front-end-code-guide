@@ -67,7 +67,7 @@ This is a basic HTML document with the recommended **4 space** indenting:
 </html>
 ```
 
-- Always use lowercase for HTML tag names, attributes and attribute values
+- Always use lowercase for HTML tag names and attribute values
 - Only use double quotes (`""`) around attribute values
 - You can omit the `type` attribute for style sheets and scripts (unless you’re not using CSS or JavaScript)
 - Remove any trailing whitespace from the end of each line
@@ -128,6 +128,7 @@ In order to improve the general readability of code, it is recommended to place 
 - `class`
 - `id`, `name`
 - `for`, `href`, `src`, `type`
+- `action`, `method`
 - `title`, `alt`
 - `width`, `height`
 - `aria-*`, `role`
