@@ -78,17 +78,17 @@ This is a basic HTML document with the recommended **4 space** indenting:
 
 #### HTML Elements
 
-Elements typically consist of a start and end tag, attributes and contents. The contents of an element may consist of other elements.
+Elements typically consist of a start and end tag, attributes and contents. The contents of an element are determined by it’s content model. Attributes and their values are not considered to be part of the contents of an element.
 
 Example of an element: `<p>This is the content of a paragraph element.</p>`
 
-[Void elements](http://www.w3.org/TR/html-markup/syntax.html#void-element) can never have contents, but they may have attributes.
+> A void element is an element whose content model never allows it to have contents under any circumstances. Void elements can have attributes. – [W3C](http://www.w3.org/TR/html-markup/syntax.html#void-element)
 
-Examples of void elements are: `<br />`, `<hr />`, `<img />`, `<input />`
+These are examples of void elements in HTML: `br`, `embed`, `hr`, `img`, `input`, `link`, `meta`, `param`, `source`
 
 #### HTML Tags
 
-Tags are used to mark the start and end of HTML elements. Optionally tags can have attributes.
+Tags are used to mark the start and end of HTML elements. Optionally, tags can have attributes.
 
 #### HTML Attributes
 
