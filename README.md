@@ -20,7 +20,7 @@ The purpose of this guide is to help us write reasonably consistent, maintainabl
 - [3. CSS](#css)
 - [4. JavaScript](#less)
 - [5. References](#references)
-- [6. Inspiration](#inspiration)
+- [6. Inspiration & Credits](#inspiration-and-credits)
 
 <a name="general"></a>
 ## 1. General
@@ -214,8 +214,8 @@ Ensure that you use valid HTML wherever possible. Use tools like the [W3C Markup
 - [Mozilla Developer Network](https://developer.mozilla.org)
 - [World Wide Web Consortium (W3C)](http://www.w3.org)
 
-<a name="inspiration"></a>
-## 6. Inspiration & Credit
+<a name="inspiration-and-credits"></a>
+## 6. Inspiration & Credits
 
 - [Google HTML/CSS Style Guide](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml)
 - [Code Guide by Mark Otto](http://codeguide.co)
