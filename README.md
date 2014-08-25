@@ -100,7 +100,7 @@ Attributes have a `name` and `value` and are specified in the element’s start 
 
 Example of an element’s attributes: `<img src="" alt="" />`
 
-Note: `alt` _is an attribute and not a tag_
+Note: `alt` is an _attribute_ and not a _tag_
 
 <a name="html-document-type-definition"></a>
 ### 2.3 Document Type Definition (DTD):
