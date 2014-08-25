@@ -96,9 +96,7 @@ Example of a start tag: `<p>`
 
 Attributes have a `name` and `value` and are specified in the element’s start tag.
 
-Example of an element’s attributes: `<img src="" alt="" />`
-
-Note: **`alt`** is an attribute and not a tag.
+Example of an element’s attributes: `<img src="" alt="" />` _Note: **`alt`** is an attribute and not a tag._
 
 <a name="html-document-type-definition"></a>
 ### 2.3 Document Type Definition (DTD):
