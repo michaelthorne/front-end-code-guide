@@ -182,8 +182,6 @@ This is an example of the recommended attribute order for a tag:
 <div class="" id="" aria-controls="" role="">
 ```
 
-_These suggestions are based on [@mdo’s Code Guide](http://codeguide.co/#html-attribute-order)._
-
 <a name="html-semantics"></a>
 ### 2.8 Semantics
 
@@ -217,7 +215,7 @@ Ensure that you use valid HTML wherever possible. Use tools like the [W3C Markup
 - [World Wide Web Consortium (W3C)](http://www.w3.org)
 
 <a name="inspiration"></a>
-## 6. Inspiration
+## 6. Inspiration & Credit
 
 - [Google HTML/CSS Style Guide](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml)
 - [Code Guide by Mark Otto](http://codeguide.co)
