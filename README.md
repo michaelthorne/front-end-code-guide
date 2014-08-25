@@ -78,7 +78,9 @@ This is a basic HTML document with the recommended **4 space** indenting:
 
 #### HTML Elements
 
-Elements typically consist of a start and end tag, attributes and contents. The contents of an element may consist of other elements. Example of an element: `<p>This is the content of a paragraph element.</p>`
+Elements typically consist of a start and end tag, attributes and contents. The contents of an element may consist of other elements.
+
+Example of an element: `<p>This is the content of a paragraph element.</p>`
 
 [Void elements](http://www.w3.org/TR/html-markup/syntax.html#void-element) can never have contents, but they may have attributes.
 
