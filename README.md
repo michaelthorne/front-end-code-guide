@@ -125,6 +125,7 @@ In order to improve the general readability of code, it is recommended to place 
 - `id`, `name`
 - `for`, `href`, `src`, `type`
 - `title`, `alt`
+- `width`, `height`
 - `aria-*`, `role`
 - `data-*`
 
