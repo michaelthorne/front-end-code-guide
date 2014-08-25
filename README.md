@@ -194,6 +194,6 @@ Ensure that you use valid HTML wherever possible. Use tools like the [W3C Markup
 ## 6. Inspiration
 
 - [Google HTML/CSS Style Guide](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml)
+- [Code Guide by Mark Otto](http://codeguide.co)
 - [Idiomatic CSS by Nicolas Gallagher](https://github.com/necolas/idiomatic-css)
 - [CSS Guidelines by Harry Roberts](https://github.com/csswizardry/CSS-Guidelines)
-- [Code Guide by Mark Otto](http://codeguide.co)
