@@ -119,6 +119,41 @@ Ensure that IE uses the latest engine:
 <a name="html-attribute-order"></a>
 ### 2.5 Attribute Order
 
+In order to improve the general readability of code, it is recommended to place tag attributes in the following:
+
+- `class`
+- `id`, `name`
+- `for`, `href`, `src`, `type`
+- `title`, `alt`
+- `aria-*`, `role`
+- `data-*`
+
+This is an example of the recommended attribute order for an image:
+
+```html
+<img src="…" width="…" height="…" title="…" alt="…" />
+```
+
+This is an example of the recommended attribute order for a form control:
+
+```html
+<input class="…" name="…" type="…" />
+```
+
+This is an example of the recommended attribute order for an anchor:
+
+```html
+<a href="" title="…" data-*="…">
+```
+
+This is an example of the recommended attribute order for a tag:
+
+```html
+<div class="" id="" aria-controls="" role="">
+```
+
+_These suggestions are based on [@mdo’s Code Guide](http://codeguide.co/#html-attribute-order)._
+
 <a name="html-semantics"></a>
 ### 2.6 Semantics
 
