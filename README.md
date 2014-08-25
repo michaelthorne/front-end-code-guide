@@ -84,7 +84,7 @@ Example of an element: `<p>This is the content of a paragraph element.</p>`
 
 > A void element is an element whose content model never allows it to have contents under any circumstances. Void elements can have attributes. – [W3C](http://www.w3.org/TR/html-markup/syntax.html#void-element)
 
-These are examples of void elements in HTML: `<br />`, `<embed />`, `<hr />`, `<img />`, `<input />`, `<link />`, `<meta />`, `<param />`, `<source />`
+These are examples of void elements in HTML: `<br />`, `<hr />`, `<img />`, `<input />`, `<link />`, `<meta />`
 
 #### HTML Tags
 
