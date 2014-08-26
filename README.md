@@ -34,11 +34,11 @@ Your codebase should appear as if it was written by a single person, even if mul
 <a name="overview"></a>
 ### 1.1 Overview
 
-Use [EditorConfig](http://editorconfig.org) if your IDE or text editor supports it.
-
 - Use **4 spaces** for indenting instead of tabs to ensure consistency (_never_ mix spaces and tabs)
 - Consider a sensible maximum for line-length e.g. **80 character** wide columns
 - Make use of whitespace to _improve_ readability of the code
+
+Use [EditorConfig](http://editorconfig.org) if your IDE or text editor supports it.
 
 <a name="html"></a>
 ## 2. HTML
