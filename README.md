@@ -15,8 +15,8 @@ The purpose of this guide is to help us write reasonably consistent, maintainabl
  - [2.6 Internet Explorer Compatibility Mode](#html-internet-explorer-compatibility-mode)
  - [2.7 Attribute Order](#html-attribute-order)
  - [2.8 Semantics](#html-semantics)
- - [x.x Using WAI-ARIA in HTML](#html-using-wai-aria)
- - [x.x Validation](#html-validation)
+ - [2.9 Using WAI-ARIA in HTML](#html-using-wai-aria)
+ - [2.10 Validation](#html-validation)
 - [3. CSS](#css)
 - [4. JavaScript](#less)
 - [5. References](#references)
@@ -173,20 +173,20 @@ This is an example of the recommended attribute order for a **form control**:
 This is an example of the recommended attribute order for an **anchor**:
 
 ```html
-<a href="" title="…" data-attribute="…">
+<a href="…" title="…" data-attribute="…">
 ```
 
 This is an example of the recommended attribute order for a **div**:
 
 ```html
-<div class="" id="" aria-controls="" role="">
+<div class="…" id="…" aria-controls="…" role="…">
 ```
 
 <a name="html-semantics"></a>
 ### 2.8 Semantics
 
 <a name="html-using-wai-aria"></a>
-### x.x Using WAI-ARIA in HTML
+### 2.9 Using WAI-ARIA in HTML
 
 The main goal of the ARIA specification is to improve the overall accessibility of websites.
 
@@ -195,7 +195,7 @@ The main goal of the ARIA specification is to improve the overall accessibility 
 As per the W3C draft, [using WAI-ARIA in HTML](http://www.w3.org/TR/aria-in-html), rather use native HTML elements wherever possible as it will have the semantics and required behaviour built-in.
 
 <a name="html-validation"></a>
-### x.x Validation
+### 2.10 Validation
 
 Ensure that you use valid HTML wherever possible. Use tools like the [W3C Markup Validation Service](http://validator.w3.org) or the [Nu Markup Checker](http://validator.w3.org/nu). There is also a [grunt-html-validation](https://www.npmjs.org/package/grunt-html-validation) plugin.
 
