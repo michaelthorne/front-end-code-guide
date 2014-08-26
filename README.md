@@ -208,7 +208,6 @@ Ensure that you use valid HTML wherever possible. Use tools like the [W3C Markup
 <a name="references"></a>
 ## 5. References
 
-- [456 Berea Street](http://www.456bereastreet.com)
 - [Dive Into HTML5](http://diveintohtml5.info)
 - [HTML5 Doctor](http://html5doctor.com)
 - [Mozilla Developer Network](https://developer.mozilla.org)
