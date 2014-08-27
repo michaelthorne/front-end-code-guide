@@ -1,6 +1,8 @@
 # HTML & CSS code guide
 
-The purpose of this guide is to help us write reasonably consistent, maintainable and scalable code. Whilst there are brilliant [guidelines](#inspiration) that already exist, this condensed guide will help you get started. Please [open an issue on GitHub](https://github.com/michaelthorne/codeguide/issues/new) if you’d like to contribute.
+The purpose of this guide is to help us write reasonably consistent, maintainable and scalable code.
+
+Please [open an issue on GitHub](https://github.com/michaelthorne/codeguide/issues/new) if you’d like to contribute.
 
 ## Table of Contents
 
