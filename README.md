@@ -204,6 +204,9 @@ Ensure that you use valid HTML wherever possible. Use tools like the [W3C Markup
 <a name="css"></a>
 ## 3. CSS
 
+- [3.1 General](#css-general)
+- [3.2 Terminology](#css-terminology)
+
 <a name="js"></a>
 ## 4. JavaScript
 
