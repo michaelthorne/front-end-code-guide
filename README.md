@@ -20,6 +20,8 @@ Please [open an issue on GitHub](https://github.com/michaelthorne/codeguide/issu
  - [2.9 Using WAI-ARIA in HTML](#html-using-wai-aria)
  - [2.10 Validation](#html-validation)
 - [3. CSS](#css)
+ - [3.1 General](#css-general)
+ - [3.2 Terminology](#css-terminology)
 - [4. JavaScript](#less)
 - [5. References](#references)
 - [6. Inspiration & Credits](#inspiration-and-credits)
@@ -204,8 +206,11 @@ Ensure that you use valid HTML wherever possible. Use tools like the [W3C Markup
 <a name="css"></a>
 ## 3. CSS
 
-- [3.1 General](#css-general)
-- [3.2 Terminology](#css-terminology)
+<a name="css-general"></a>
+### 3.1 General
+
+<a name="css-terminology"></a>
+### 3.2 Terminology
 
 <a name="js"></a>
 ## 4. JavaScript
