@@ -1,3 +1,5 @@
+_This is a work in progress…_
+
 # HTML & CSS code guide
 
 The purpose of this guide is to help us write reasonably consistent, maintainable and scalable code.
