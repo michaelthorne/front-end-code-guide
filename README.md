@@ -24,6 +24,9 @@ Please [open an issue on GitHub](https://github.com/michaelthorne/codeguide/issu
 - [3. CSS](#css)
  - [3.1 General](#css-general)
  - [3.2 Terminology](#css-terminology)
+ - [3.3 Commenting](#css-commenting)
+ - [3.4 Naming Conventions](#css-naming-conventions)
+ - [3.5 Declaration Order](#css-declaration-order)
 - [4. JavaScript](#less)
 - [5. References](#references)
 - [6. Inspiration & Credits](#inspiration-and-credits)
@@ -213,6 +216,15 @@ Ensure that you use valid HTML wherever possible. Use tools like the [W3C Markup
 
 <a name="css-terminology"></a>
 ### 3.2 Terminology
+
+<a name="css-commenting"></a>
+### 3.3 Commenting
+
+<a name="css-naming-conventions"></a>
+### 3.4 Naming Conventions
+
+<a name="css-declaration-order"></a>
+### 3.5 Declaration Order
 
 <a name="js"></a>
 ## 4. JavaScript
