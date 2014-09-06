@@ -56,7 +56,7 @@ Use [EditorConfig](http://editorconfig.org) if your IDE or text editor supports 
 <a name="html-general"></a>
 ### 2.1 General
 
-This is a basic HTML document with the recommended **4 space** indenting:
+This is the basic structure of an HTML document:
 
 ```html
 <!doctype html>
@@ -79,7 +79,8 @@ This is a basic HTML document with the recommended **4 space** indenting:
 
 - Always use lowercase for HTML tag names and attribute values
 - Only use double quotes (`""`) around attribute values
-- You can omit the `type` attribute for style sheets and scripts (unless you’re not using CSS or JavaScript)
+- Indentation should be 4 spaces (and not tabs)
+- Omit the `type` attribute when including style sheets and scripts
 - Remove any trailing whitespace from the end of each line
 - Use a new line for every [block-level](https://developer.mozilla.org/en-US/docs/Web/HTML/Block-level_elements) element
 
