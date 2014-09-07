@@ -26,6 +26,7 @@ Please [open an issue on GitHub](https://github.com/michaelthorne/codeguide/issu
  - [3.2 Terminology](#css-terminology)
  - [3.3 Commenting](#css-commenting)
  - [3.4 Naming Conventions](#css-naming-conventions)
+ - [3.4.1 BEM](#css-bem)
  - [3.5 Declaration Order](#css-declaration-order)
  - [3.6 Selectors](#css-selectors)
 - [4. JavaScript](#less)
@@ -224,6 +225,9 @@ Ensure that you use valid HTML wherever possible. Use tools like the [W3C Markup
 
 <a name="css-naming-conventions"></a>
 ### 3.4 Naming Conventions
+
+<a name="css-naming-conventions"></a>
+### 3.4.1 BEM
 
 <a name="css-declaration-order"></a>
 ### 3.5 Declaration Order
