@@ -9,7 +9,6 @@ Please [open an issue on GitHub](https://github.com/michaelthorne/codeguide/issu
 ## Table of Contents
 
 - [1. General](#general)
- - [1.1 Overview](#overview)
 - [2. HTML](#html)
  - [2.1 General](#html-general)
  - [2.2 Terminology](#html-terminology)
@@ -26,7 +25,6 @@ Please [open an issue on GitHub](https://github.com/michaelthorne/codeguide/issu
  - [3.2 Terminology](#css-terminology)
  - [3.3 Commenting](#css-commenting)
  - [3.4 Naming Conventions](#css-naming-conventions)
- - [3.5 BEM](#css-bem)
  - [3.6 Declaration Order](#css-declaration-order)
  - [3.7 Selectors](#css-selectors)
 - [4. JavaScript](#less)
@@ -40,14 +38,9 @@ Your codebase should appear as if it was written by a single person, even if mul
 
 - It doesn’t matter which guide or style you use, but ensure that you stick to one
 - Keep your code readable and easy to understand – think about the next person who has to work on it
-- When in doubt, see if there’s an existing pattern that people are using or refer to other [guidelines](#inspiration)
-
-<a name="overview"></a>
-### 1.1 Overview
-
-- Use **4 spaces** for indenting instead of tabs to ensure consistency (_never_ mix spaces and tabs)
 - Consider a sensible maximum for line-length e.g. **80 character** wide columns
 - Make use of whitespace to _improve_ readability of the code
+- When in doubt, see if there’s an existing pattern that people are using or refer to other [guidelines](#inspiration)
 
 Use [EditorConfig](http://editorconfig.org) if your IDE or text editor supports it.
 
@@ -225,9 +218,6 @@ Ensure that you use valid HTML wherever possible. Use tools like the [W3C Markup
 
 <a name="css-naming-conventions"></a>
 ### 3.4 Naming Conventions
-
-<a name="css-naming-conventions"></a>
-### 3.5 BEM
 
 <a name="css-declaration-order"></a>
 ### 3.6 Declaration Order
