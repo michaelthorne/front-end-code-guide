@@ -40,7 +40,7 @@ Your codebase should appear as if it was written by a single person, even if mul
 - Keep your code readable and easy to understand – think about the next person who has to work on it
 - Consider a sensible maximum for line-length e.g. **80 character** wide columns
 - Make use of whitespace to _improve_ readability of the code
-- When in doubt, see if there’s an existing pattern that people are using or refer to other [guidelines](#inspiration)
+- When in doubt, see if there’s an existing pattern that people are using or refer to other [guidelines](#6-inspiration--credits)
 
 Use [EditorConfig](http://editorconfig.org) if your IDE or text editor supports it.
 
