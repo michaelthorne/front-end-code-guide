@@ -157,7 +157,7 @@ In order to improve the general readability of code, it is recommended to place 
 - `class`
 - `id`, `name`
 - `for`, `href`, `src`, `type`
-- `action`, `method`
+- `action`, `method`, `href`
 - `title`, `alt`
 - `width`, `height`
 - `aria-*`, `role`
@@ -178,7 +178,7 @@ This is an example of the recommended attribute order for a **form control**:
 This is an example of the recommended attribute order for an **anchor**:
 
 ```html
-<a href="…" title="…" data-attribute="…">
+<a href="…" title="…" target="…" data-attribute="…">
 ```
 
 This is an example of the recommended attribute order for a **div**:
