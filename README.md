@@ -57,7 +57,7 @@ This is the basic structure of an HTML document:
 <html lang="en">
 <head>
     <meta charset="utf-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta http-equiv="x-ua-compatible" content="ie=edge" />
     <title>HTML & CSS code guide</title>
     <link rel="stylesheet" href="style.css" />
 </head>
@@ -144,7 +144,7 @@ Define the HTML document’s character set as [utf-8](http://www.utf-8.com):
 Ensure that IE uses the latest engine:
 
 ```html
-<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta http-equiv="x-ua-compatible" content="ie=edge" />
 ```
 
 > The idea behind compatibility mode is to allow web sites and applications that are not designed to modern standards to continue to work while upgrades can be made, allowing end users to upgrade to the latest browser version. Designating 'IE=edge' is the best practice because it ensures Internet Explorer uses the latest engine. The most current Internet Explorer version includes the latest security updates as well as feature support. The current version is also the fastest version. – [modern.IE](https://www.modern.ie/en-us/performance/how-to-use-x-ua-compatible)
