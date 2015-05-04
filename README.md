@@ -156,7 +156,7 @@ In order to improve the general readability of code, it is recommended to place 
 
 - `class`
 - `id`, `name`
-- `for`, `href`, `type`, `src`
+- `for`, `href`, `src`, `type`
 - `action`, `method`, `href`
 - `title`, `alt`
 - `width`, `height`
