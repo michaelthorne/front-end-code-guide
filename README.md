@@ -56,10 +56,10 @@ This is the basic structure of an HTML document:
 <!doctype html>
 <html lang="en">
 <head>
-    <meta charset="utf-8" />
-    <meta http-equiv="x-ua-compatible" content="ie=edge" />
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
     <title>HTML & CSS code guide</title>
-    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <main role="main">
@@ -89,7 +89,7 @@ Example of an element: `<p>This is the content of a paragraph element.</p>`
 
 > A void element is an element whose content model never allows it to have contents under any circumstances. Void elements can have attributes. – [W3C](http://www.w3.org/TR/html-markup/syntax.html#void-element)
 
-Examples of void elements in HTML: `<hr />`, `<img />`, `<input />`, `<link />`, `<meta />`
+Examples of void elements in HTML: `<hr>`, `<img>`, `<input>`, `<link>`, `<meta>`
 
 #### HTML Tags
 
@@ -103,7 +103,7 @@ Example of an end tag: `</p>`
 
 Attributes have a `name` and `value` and are specified in the element’s start tag.
 
-Example of an element’s attributes: `<img src="" alt="" />`
+Example of an element’s attributes: `<img src="" alt="">`
 
 <a name="html-document-type-definition"></a>
 ### 2.3 Document Type Definition (DTD):
@@ -133,7 +133,7 @@ Specify the language [code](http://www.loc.gov/standards/iso639-2/php/code_list.
 Define the HTML document’s character set as [utf-8](http://www.utf-8.com):
 
 ```html
-<meta charset="utf-8" />
+<meta charset="utf-8">
 ```
 
 > Unicode is a universal character set, ie. a standard that defines, in one place, all the characters needed for writing the majority of living languages in use on computers. It aims to be, and to a large extent already is, a superset of all other character sets that have been encoded. – [W3C](http://www.w3.org/International/articles/definitions-characters)
@@ -144,7 +144,7 @@ Define the HTML document’s character set as [utf-8](http://www.utf-8.com):
 Ensure that IE uses the latest engine:
 
 ```html
-<meta http-equiv="x-ua-compatible" content="ie=edge" />
+<meta http-equiv="x-ua-compatible" content="ie=edge">
 ```
 
 > The idea behind compatibility mode is to allow web sites and applications that are not designed to modern standards to continue to work while upgrades can be made, allowing end users to upgrade to the latest browser version. Designating 'IE=edge' is the best practice because it ensures Internet Explorer uses the latest engine. The most current Internet Explorer version includes the latest security updates as well as feature support. The current version is also the fastest version. – [modern.IE](https://www.modern.ie/en-us/performance/how-to-use-x-ua-compatible)
@@ -166,13 +166,13 @@ In order to improve the general readability of code, it is recommended to place 
 This is an example of the recommended attribute order for an **image**:
 
 ```html
-<img src="…" width="…" height="…" title="…" alt="…" />
+<img src="…" width="…" height="…" title="…" alt="…">
 ```
 
 This is an example of the recommended attribute order for a **form control**:
 
 ```html
-<input class="…" name="…" type="…" />
+<input class="…" name="…" type="…">
 ```
 
 This is an example of the recommended attribute order for an **anchor**:
