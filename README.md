@@ -4,8 +4,7 @@ _This is a work in progress…_
 
 ## Overview
 
-The purpose of this guide is to help us write consistent, maintainable and scalable code. It is a living document and
-should be reviewed regularly and kept up-to-date with changes in standards, technology and best practice.
+The purpose of this guide is to help us write consistent, maintainable and scalable code. It is a living document which should reviewed on an ongoing basis. Due to the regular changes in technology and standards, it will need updating over time.
 
 Please [open an issue on GitHub](https://github.com/michaelthorne/codeguide/issues/new) if you’d like to contribute.
 
@@ -38,7 +37,7 @@ Please [open an issue on GitHub](https://github.com/michaelthorne/codeguide/issu
 <a name="general"></a>
 ## 1. General
 
-Your codebase must appear as if it was written by a single person, even if multiple people contributed to it.
+Your codebase must appear as if it was written by a single person, even if many people contributed to it. With style guide driven development, it is crucial that the code is maintainable. This must be the focus from the onset, as their is always potential for a project to grow.
 
 - There needs to be a clear separation of concerns: content, presentation and behavior
 - Keep your code readable and easy to understand – think about the next person who has to maintain it
@@ -50,7 +49,7 @@ Your codebase must appear as if it was written by a single person, even if multi
 <a name="browser-support"></a>
 ## 2. Browser Support
 
-Through the practice of [progressive enhancement and graceful degradation](http://alistapart.com/article/understandingprogressiveenhancement) a website _should_ render in any web browser. However, the experience for each visitor will differ based on the features supported in the version of the browser being used.
+Through the practice of [progressive enhancement and graceful degradation](http://alistapart.com/article/understandingprogressiveenhancement) a website _should_ render in any web browser. But yet, the experience for each visitor will differ based on the features supported in the version of the browser in use.
 
 <a name="html"></a>
 ## 3. HTML
