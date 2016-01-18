@@ -275,5 +275,5 @@ Ensure that you use valid HTML wherever possible. Use tools like the [W3C Markup
 - [Google HTML/CSS Style Guide](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml)
 - [Code Guide by Mark Otto](http://codeguide.co)
 - [Idiomatic CSS by Nicolas Gallagher](https://github.com/necolas/idiomatic-css)
-- [CSS Guidelines by Harry Roberts](https://github.com/csswizardry/CSS-Guidelines)
+- [CSS Guidelines by Harry Roberts](http://cssguidelin.es/)
 - [TMW Unlimited Front-End Dev guidelines](http://tech.tmw.co.uk/code/TMW-frontend-guidelines)
