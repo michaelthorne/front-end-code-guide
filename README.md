@@ -4,7 +4,7 @@ _This is a work in progress…_
 
 ## Overview
 
-The purpose of this guide is to help us write consistent, maintainable and scalable code. It is a living document which should reviewed on an ongoing basis. Due to the regular changes in technology and standards, it will need updating over time.
+The purpose of this guide is to help you write consistent, maintainable and scalable code. It is a living document which should reviewed on an ongoing basis. Due to the regular changes in technology and standards, it will need updating over time.
 
 Please [open an issue on GitHub](https://github.com/michaelthorne/codeguide/issues/new) if you’d like to contribute.
 
@@ -37,14 +37,14 @@ Please [open an issue on GitHub](https://github.com/michaelthorne/codeguide/issu
 <a name="general"></a>
 ## 1. General
 
-Your codebase must appear as if it was written by a single person, even if many people contributed to it. With style guide driven development, it is crucial that the code is maintainable. This must be the focus from the onset, as their is always potential for a project to grow.
+Your codebase must appear as if it was written by a single person, even if many people contributed to it. With style guide driven development, it is crucial that the code is easy to maintain. This must be the focus from the onset, as their is always potential for your project to grow.
 
-- There needs to be a clear separation of concerns: content, presentation and behavior
+- There needs to be a clear separation of concerns: structure, presentation and behavior
 - Keep your code readable and easy to understand – think about the next person who has to maintain it
 - Consider a sensible maximum for line-length e.g. **80 character** wide columns
 - Make use of whitespace to _improve_ readability of the code
-- When in doubt, see if there’s an existing pattern that people are using or refer to other [guidelines](#6-inspiration--credits)
 - Use [EditorConfig](http://editorconfig.org) if your IDE or text editor supports it
+- When in doubt, see if there’s an existing style that people are using or refer to other [guidelines](#6-inspiration--credits)
 
 <a name="browser-support"></a>
 ## 2. Browser Support
