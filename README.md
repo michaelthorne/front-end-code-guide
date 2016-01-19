@@ -280,3 +280,4 @@ Ensure that you use valid HTML wherever possible. Use tools like the [W3C Markup
 - [Idiomatic CSS by Nicolas Gallagher](https://github.com/necolas/idiomatic-css)
 - [CSS Guidelines by Harry Roberts](http://cssguidelin.es/)
 - [TMW Unlimited Front-End Dev guidelines](http://tech.tmw.co.uk/code/TMW-frontend-guidelines)
+- [Front end standards](http://www.yellowshoe.com.au/standards/)
