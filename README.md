@@ -99,6 +99,8 @@ This is the basic structure of an HTML document:
 </html>
 ```
 
+#### Syntax
+
 - Always use lowercase for HTML tag names and attribute values
 - Only use double quotes (`""`) around attribute values
 - Indentation must be 4 spaces (and not tabs)
