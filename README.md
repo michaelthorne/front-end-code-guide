@@ -190,8 +190,8 @@ In order to improve the general readability of code, it is recommended to place 
 - `value`, `placeholder`, `maxlength`, `required`
 - `for`, `href`, `src`, `srcset`
 - `action`, `method`, `href`, `target`
-- `title`, `alt`
 - `width`, `height`
+- `title`, `alt`
 - `data-*`
 - `aria-*`, `role`
 
