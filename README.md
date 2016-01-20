@@ -11,7 +11,7 @@ Please [open an issue on GitHub](https://github.com/michaelthorne/codeguide/issu
 ## Table of Contents
 
 - [1. General](#general)
-- [2. Browser Support](#browser-support)
+- [2. Browsers](#browsers)
 - [3. HTML](#html)
  - [3.1 General](#html-general)
  - [3.2 Terminology](#html-terminology)
@@ -46,10 +46,22 @@ Your codebase must appear as if it was written by a single person, even if many 
 - Use [EditorConfig](http://editorconfig.org) if your IDE or text editor supports it
 - When in doubt, see if there’s an existing style that people are using or refer to other [guidelines](#6-inspiration--credits)
 
-<a name="browser-support"></a>
-## 2. Browser Support
+<a name="browsers"></a>
+## 2. Browsers
 
-Through the practice of [progressive enhancement and graceful degradation](http://alistapart.com/article/understandingprogressiveenhancement) a website _should_ render in any web browser. But yet, the experience for each visitor will differ based on the features supported in the version of the browser in use.
+Through the practice of [progressive enhancement and graceful degradation](http://alistapart.com/article/understandingprogressiveenhancement) a website _should_ render in any web browser. But yet the experience for each visitor will differ based on the features supported in the version of the browser in use.
+
+### Currently supported browsers
+
+- Chrome
+- Firefox
+- Internet Explorer 8+
+- Opera
+- Safari
+
+> Do websites need to look exactly the same in every browser?
+
+[No](http://dowebsitesneedtolookexactlythesameineverybrowser.com). Although your HTML should render without CSS or JavaScript – the content must be accessible and form submissions must work.
 
 <a name="html"></a>
 ## 3. HTML
