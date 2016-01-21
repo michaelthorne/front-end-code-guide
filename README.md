@@ -14,15 +14,16 @@ Please [open an issue on GitHub](https://github.com/michaelthorne/codeguide/issu
 - [2. Browsers](#browsers)
 - [3. HTML](#html)
  - [3.1 General](#html-general)
- - [3.2 Terminology](#html-terminology)
- - [3.3 Document Type Definition (DTD)](#html-document-type-definition)
- - [3.4 Language](#html-language)
- - [3.5 Character Encoding](#html-character-encoding)
- - [3.6 Internet Explorer Compatibility Mode](#html-internet-explorer-compatibility-mode)
- - [3.7 Attribute Order](#html-attribute-order)
- - [3.8 Semantics](#html-semantics)
- - [3.9 Using WAI-ARIA in HTML](#html-using-wai-aria)
- - [3.10 Validation](#html-validation)
+ - [3.2 Syntax](#html-terminology)
+ - [3.3 Terminology](#html-terminology)
+ - [3.4 Document Type Definition (DTD)](#html-document-type-definition)
+ - [3.5 Language](#html-language)
+ - [3.6 Character Encoding](#html-character-encoding)
+ - [3.7 Internet Explorer Compatibility Mode](#html-internet-explorer-compatibility-mode)
+ - [3.8 Attribute Order](#html-attribute-order)
+ - [3.9 Semantics](#html-semantics)
+ - [3.10 Using WAI-ARIA in HTML](#html-using-wai-aria)
+ - [3.11 Validation](#html-validation)
 - [4. CSS](#css)
  - [4.1 General](#css-general)
  - [4.2 Terminology](#css-terminology)
@@ -257,6 +258,11 @@ Ensure that you use valid HTML wherever possible. Use tools like the [W3C Markup
 ### 4.1 General
 
 > Every time you write inline styles in your markup, a front-end developer somewhere dies – whether it’s in a style tag or directly in the markup. Don’t do it. – [TMWtech](http://tech.tmw.co.uk/code/TMW-frontend-guidelines/)
+
+This guide assumes that [Sass](http://sass-lang.com) will be used as the preprocessor to compile your CSS. The majority of the rules in this guide apply to vanilla CSS, unless otherwise stated.
+
+- Split your CSS across multiple files: generic, vendor, base, objects
+- CSS shoul
 
 <a name="css-terminology"></a>
 ### 4.2 Terminology
