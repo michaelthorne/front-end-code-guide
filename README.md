@@ -256,13 +256,13 @@ However, the preference is to _not add a value_. For example:
 
 Use the appropriate element when marking up your content to give it meaning on a web page. Semantic code describes the value of the content on a page, independent of it’s style.
 
-#### Avoid
+#### ✗ Avoid
 
 ```
 <div class="button">Submit</div>
 ```
 
-#### Correct
+#### ✓ Correct
 
 ```
 <button>Submit</button>
@@ -272,7 +272,7 @@ Have a look at the [HTML5 Sectioning Element Flowchart](http://html5doctor.com/r
 
 Avoid adding superflous parent elements when writing HTML – reduce markup wherever possible.
 
-#### Not ideal
+#### ✗ Not ideal
 
 ```
 <span class="logo">
@@ -280,7 +280,7 @@ Avoid adding superflous parent elements when writing HTML – reduce markup wher
 </span>
 ```
 
-#### Much better
+#### ✓ Much better
 
 ```
 <img class="logo" src="…">
