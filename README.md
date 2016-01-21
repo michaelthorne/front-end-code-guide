@@ -122,7 +122,7 @@ The basic structure of an HTML document:
 - Use a new line for every [block-level](https://developer.mozilla.org/en-US/docs/Web/HTML/Block-level_elements) element
 
 <a name="html-terminology"></a>
-### 3.2 Terminology
+### 3.3 Terminology
 
 #### HTML Elements
 
