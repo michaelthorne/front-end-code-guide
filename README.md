@@ -260,9 +260,7 @@ Ensure that you use valid HTML wherever possible. Use tools like the [W3C Markup
 
 > Every time you write inline styles in your markup, a front-end developer somewhere dies – whether it’s in a style tag or directly in the markup. Don’t do it. – [TMWtech](http://tech.tmw.co.uk/code/TMW-frontend-guidelines/)
 
-This guide assumes that [Sass](http://sass-lang.com) will be used as the preprocessor to compile your CSS. The majority of the rules in this guide apply to vanilla CSS, unless otherwise stated.
-
-- Split your CSS across multiple files: generic, vendor, base, objects
+This guide assumes that [Sass](http://sass-lang.com) will be used as the preprocessor to compile your CSS. The majority of the rules in this guide also apply to vanilla CSS, unless otherwise stated.
 
 <a name="css-terminology"></a>
 ### 4.2 Terminology
