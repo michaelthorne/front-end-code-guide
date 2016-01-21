@@ -37,12 +37,13 @@ Please [open an issue on GitHub](https://github.com/michaelthorne/codeguide/issu
 <a name="general"></a>
 ## 1. General
 
-- There must be a clear separation of concerns: structure, presentation and behavior
-- Keep your code readable and easy to understand – think about the next person who has to maintain it
+- There must always be a clear separation of concerns: structure, presentation and behavior
+- Keep your code readable and easy to understand
 - Consider a sensible maximum for line-length e.g. **80 character** wide columns
-- Make use of whitespace to _improve_ readability of the code
-- Use [EditorConfig](http://editorconfig.org) if your IDE or text editor supports it
-- When in doubt, refer to other [guidelines](#6-inspiration--credits)
+- Indentation must be 4 spaces (and not tabs)
+- Use whitespace to _improve_ readability of the code
+- [EditorConfig](http://editorconfig.org) can help maintain the basic whitespace conventions
+- When in doubt use existing, common patterns or refer to other [guidelines](#6-inspiration--credits)
 
 <a name="browsers"></a>
 ## 2. Browsers
@@ -113,7 +114,6 @@ This is the basic structure of an HTML document:
 
 - HTML tag names and attribute values must be in lowercase
 - Use double quotes (`""`) around attribute values
-- Indentation must be 4 spaces (and not tabs)
 - Omit the `type` attribute when including style sheets and scripts
 - Remove any trailing whitespace from the end of each line
 - Use a new line for every [block-level](https://developer.mozilla.org/en-US/docs/Web/HTML/Block-level_elements) element
