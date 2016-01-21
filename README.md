@@ -25,8 +25,8 @@ Please [open an issue on GitHub](https://github.com/michaelthorne/codeguide/issu
  - [3.10 Validation](#html-validation)
 - [4. CSS](#css)
  - [4.1 General](#css-general)
- - [4.2 Syntax](#css-syntax)
- - [4.3 Terminology](#css-terminology)
+ - [4.2 Terminology](#css-terminology)
+ - [4.3 Syntax](#css-syntax)
  - [4.4 Commenting](#css-commenting)
  - [4.5 Naming Conventions](#css-naming-conventions)
  - [4.6 Declaration Order](#css-declaration-order)
@@ -258,13 +258,11 @@ Ensure that you use valid HTML wherever possible. Use tools like the [W3C Markup
 
 > Every time you write inline styles in your markup, a front-end developer somewhere dies – whether it’s in a style tag or directly in the markup. Don’t do it. – [TMWtech](http://tech.tmw.co.uk/code/TMW-frontend-guidelines/)
 
-
+<a name="css-terminology"></a>
+### 4.2 Terminology
 
 <a name="css-syntax"></a>
-### 4.2 Syntax
-
-<a name="css-terminology"></a>
-### 4.3 Terminology
+### 4.3 Syntax
 
 <a name="css-commenting"></a>
 ### 4.4 Commenting
