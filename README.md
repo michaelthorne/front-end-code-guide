@@ -265,7 +265,7 @@ This guide assumes that [Sass](http://sass-lang.com) will be used as the preproc
 <a name="css-terminology"></a>
 ### 4.2 Terminology
 
-A rule set (also called "rule") consists of a selector followed by a declaration block.
+A rule set (also called “rule”) consists of a selector followed by a declaration block:
 
 ```
 [selector] {
@@ -278,8 +278,7 @@ A rule set (also called "rule") consists of a selector followed by a declaration
 For example:
 
 ```
-.foo,
-.bar {
+.foo {
     background-color: red;
     color: white;
 }
@@ -290,6 +289,7 @@ For example:
 For example:
 
 #### Type
+
 ```
 h1 {
 
@@ -297,6 +297,7 @@ h1 {
 ```
 
 #### Universal
+
 ```
 * {
 
@@ -304,6 +305,7 @@ h1 {
 ```
 
 #### Attribute
+
 ```
 a[rel="external"] {
 
@@ -311,6 +313,7 @@ a[rel="external"] {
 ```
 
 #### Class
+
 ```
 .hero {
 
@@ -318,6 +321,7 @@ a[rel="external"] {
 ```
 
 #### ID
+
 ```
 #top {
 
@@ -325,6 +329,7 @@ a[rel="external"] {
 ```
 
 #### Pseudo
+
 ```
 button:focus {
 
