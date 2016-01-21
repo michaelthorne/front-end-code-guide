@@ -14,7 +14,7 @@ Please [open an issue on GitHub](https://github.com/michaelthorne/codeguide/issu
 - [2. Browsers](#browsers)
 - [3. HTML](#html)
  - [3.1 General](#html-general)
- - [3.2 Syntax](#html-terminology)
+ - [3.2 Syntax](#html-syntax)
  - [3.3 Terminology](#html-terminology)
  - [3.4 Document Type Definition (DTD)](#html-document-type-definition)
  - [3.5 Language](#html-language)
@@ -112,7 +112,8 @@ The basic structure of an HTML document:
 </html>
 ```
 
-#### Syntax
+<a name="html-syntax"></a>
+### 3.2 Syntax
 
 - HTML tag names and attribute values must be in lowercase
 - Use double quotes (`""`) around attribute values
@@ -262,7 +263,6 @@ Ensure that you use valid HTML wherever possible. Use tools like the [W3C Markup
 This guide assumes that [Sass](http://sass-lang.com) will be used as the preprocessor to compile your CSS. The majority of the rules in this guide apply to vanilla CSS, unless otherwise stated.
 
 - Split your CSS across multiple files: generic, vendor, base, objects
-- CSS shoul
 
 <a name="css-terminology"></a>
 ### 4.2 Terminology
