@@ -262,6 +262,13 @@ Ensure that you use valid HTML wherever possible. Use tools like the [W3C Markup
 
 This guide assumes that [Sass](http://sass-lang.com) will be used as the preprocessor to compile your CSS. The majority of the rules in this guide also apply to vanilla CSS, unless otherwise stated.
 
+The following features are primarily used:
+
+- Variables
+- Nesting (avoid unnecessary nesting)
+- Partials
+- Mixins
+
 <a name="css-terminology"></a>
 ### 4.2 Terminology
 
