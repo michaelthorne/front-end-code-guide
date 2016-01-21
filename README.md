@@ -25,11 +25,12 @@ Please [open an issue on GitHub](https://github.com/michaelthorne/codeguide/issu
  - [3.10 Validation](#html-validation)
 - [4. CSS](#css)
  - [4.1 General](#css-general)
- - [4.2 Terminology](#css-terminology)
- - [4.3 Commenting](#css-commenting)
- - [4.4 Naming Conventions](#css-naming-conventions)
- - [4.5 Declaration Order](#css-declaration-order)
- - [4.6 Selectors](#css-selectors)
+ - [4.2 Syntax](#css-syntax)
+ - [4.3 Terminology](#css-terminology)
+ - [4.4 Commenting](#css-commenting)
+ - [4.5 Naming Conventions](#css-naming-conventions)
+ - [4.6 Declaration Order](#css-declaration-order)
+ - [4.7 Selectors](#css-selectors)
 - [5. JavaScript](#javascript)
 - [6. References](#references)
 - [7. Inspiration & Credits](#inspiration-and-credits)
@@ -255,20 +256,23 @@ Ensure that you use valid HTML wherever possible. Use tools like the [W3C Markup
 <a name="css-general"></a>
 ### 4.1 General
 
+<a name="css-syntax"></a>
+### 4.2 Synatx
+
 <a name="css-terminology"></a>
-### 4.2 Terminology
+### 4.3 Terminology
 
 <a name="css-commenting"></a>
-### 4.3 Commenting
+### 4.4 Commenting
 
 <a name="css-naming-conventions"></a>
-### 4.4 Naming Conventions
+### 4.5 Naming Conventions
 
 <a name="css-declaration-order"></a>
-### 4.5 Declaration Order
+### 4.6 Declaration Order
 
 <a name="css-selectors"></a>
-### 4.6 Selectors
+### 4.7 Selectors
 
 <a name="javascript"></a>
 ## 5. JavaScript
