@@ -149,7 +149,7 @@ Attributes have a `name` and `value` and are specified in the element’s start 
 Example of an element’s attributes: `<img src="" alt="">`
 
 <a name="html-document-type-definition"></a>
-### 3.3 Document Type Definition (DTD):
+### 3.4 Document Type Definition (DTD):
 
 Include the HTML5 doctype:
 
@@ -160,7 +160,7 @@ Include the HTML5 doctype:
 > Including the doctype in a document ensures that the browser makes a best-effort attempt at following the relevant specifications. – [W3C](http://www.w3.org/TR/html5/syntax.html#the-doctype)
 
 <a name="html-language"></a>
-### 3.4 Language
+### 3.5 Language
 
 Specify the language [code](http://www.loc.gov/standards/iso639-2/php/code_list.php) for your HTML document:
 
@@ -171,7 +171,7 @@ Specify the language [code](http://www.loc.gov/standards/iso639-2/php/code_list.
 > Authors are encouraged to specify a lang attribute on the root html element, giving the document's language. This aids speech synthesis tools to determine what pronunciations to use, translation tools to determine what rules to use, and so forth. – [W3C](http://www.w3.org/TR/html5/semantics.html#the-html-element)
 
 <a name="html-character-encoding"></a>
-### 3.5 Character Encoding
+### 3.6 Character Encoding
 
 Define the HTML document’s character set as [utf-8](http://www.utf-8.com):
 
@@ -182,7 +182,7 @@ Define the HTML document’s character set as [utf-8](http://www.utf-8.com):
 > Unicode is a universal character set, ie. a standard that defines, in one place, all the characters needed for writing the majority of living languages in use on computers. It aims to be, and to a large extent already is, a superset of all other character sets that have been encoded. – [W3C](http://www.w3.org/International/articles/definitions-characters)
 
 <a name="html-internet-explorer-compatibility-mode"></a>
-### 3.6 Internet Explorer Compatibility Mode
+### 3.7 Internet Explorer Compatibility Mode
 
 Ensure that IE uses the latest engine:
 
@@ -193,7 +193,7 @@ Ensure that IE uses the latest engine:
 > The idea behind compatibility mode is to allow web sites and applications that are not designed to modern standards to continue to work while upgrades can be made, allowing end users to upgrade to the latest browser version. Designating 'IE=edge' is the best practice because it ensures Internet Explorer uses the latest engine. The most current Internet Explorer version includes the latest security updates as well as feature support. The current version is also the fastest version. – [modern.IE](https://www.modern.ie/en-us/performance/how-to-use-x-ua-compatible)
 
 <a name="html-attribute-order"></a>
-### 3.7 Attribute Order
+### 3.8 Attribute Order
 
 In order to improve the general readability of code, it is recommended to place tag attributes in the following order:
 
@@ -233,7 +233,7 @@ This is an example of the recommended attribute order for a **div**:
 ```
 
 <a name="html-boolean-attributes"></a>
-### 3.8 Boolean Attributes
+### 3.9 Boolean Attributes
 
 > The presence of a boolean attribute on an element represents the true value, and the absence of the attribute represents the false value. – [WHATWG](https://html.spec.whatwg.org/#boolean-attributes)
 
@@ -252,7 +252,7 @@ However, the preference is to not add a value. For example:
 ```
 
 <a name="html-semantics"></a>
-### 3.9 Semantics
+### 3.10 Semantics
 
 Use the appropriate element when marking up your content to give it meaning on a web page. Semantic code describes the value of the content on a page, independent of it’s style. Have a look at the [HTML5 Sectioning Element Flowchart](http://html5doctor.com/resources/#flowchart) if you get stuck.
 
@@ -273,7 +273,7 @@ Avoid adding superflous parent elements when writing HTML – reduce markup wher
 ```
 
 <a name="html-using-wai-aria"></a>
-### 3.10 Using WAI-ARIA in HTML
+### 3.11 Using WAI-ARIA in HTML
 
 The main goal of the ARIA specification is to improve the overall accessibility of websites.
 
@@ -282,7 +282,7 @@ The main goal of the ARIA specification is to improve the overall accessibility 
 As per the W3C draft, [using WAI-ARIA in HTML](http://www.w3.org/TR/aria-in-html), rather use native HTML elements wherever possible as it will have the semantics and required behaviour built-in.
 
 <a name="html-validation"></a>
-### 3.11 Validation
+### 3.12 Validation
 
 Ensure that you use valid HTML wherever possible. Use tools like the [W3C Markup Validation Service](http://validator.w3.org) or the [Nu Markup Checker](http://validator.w3.org/nu). There is also a [grunt-html-validation](https://www.npmjs.org/package/grunt-html-validation) plugin which uses the W3C validator to check your HTML.
 
