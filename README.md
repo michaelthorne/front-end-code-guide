@@ -279,7 +279,7 @@ This guide assumes that [Sass](http://sass-lang.com) will be used as the preproc
 The following features are primarily used:
 
 - Variables
-- Nesting (avoid unnecessary nesting)
+- Nesting
 - Partials
 - Mixins
 
