@@ -257,7 +257,7 @@ Ensure that you use valid HTML wherever possible. Use tools like the [W3C Markup
 ### 4.1 General
 
 <a name="css-syntax"></a>
-### 4.2 Synatx
+### 4.2 Syntax
 
 <a name="css-terminology"></a>
 ### 4.3 Terminology
