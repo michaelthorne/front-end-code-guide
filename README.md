@@ -290,36 +290,49 @@ For example:
 For example:
 
 ```
-/* Type */
-
 h1 {
+
 }
+```
 
-/* Universal */
+#### Universal
 
+```
 * {
+
 }
+```
 
-/* Attribute */
+#### Attribute
 
+```
 a[rel="external"] {
+
 }
+```
 
-/* Class */
+#### Class
 
+```
 .hero {
+
 }
+```
 
-/* ID */
+#### ID
 
+```
 #top {
+
 }
+```
 
-/* Pseudo */
+#### Pseudo
 
+```
 button:focus {
-}
 
+}
 ```
 
 <a name="css-syntax-and-formatting"></a>
