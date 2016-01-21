@@ -4,7 +4,7 @@ _This is a work in progress…_
 
 ## Overview
 
-The purpose of this guide is to help you write consistent, maintainable and scalable code. It is a living document which should reviewed on an ongoing basis.
+The purpose of this guide is to help you write readable, maintainable and scalable code. It is a living document which should reviewed on an ongoing basis.
 
 Please [open an issue on GitHub](https://github.com/michaelthorne/codeguide/issues/new) if you’d like to contribute.
 
