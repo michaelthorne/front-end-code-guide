@@ -283,6 +283,44 @@ For example:
     background-color: red;
     color: white;
 }
+```
+
+> A simple selector is either a type selector, universal selector, attribute selector, class selector, ID selector, or pseudo-class. – [W3C](https://www.w3.org/TR/2011/REC-css3-selectors-20110929/#selector-syntax)
+
+For example:
+
+```
+/* Type */
+
+h1 {
+}
+
+/* Universal */
+
+* {
+}
+
+/* Attribute */
+
+a[rel="external"] {
+}
+
+/* Class */
+
+.hero {
+}
+
+/* ID */
+
+#top {
+}
+
+/* Pseudo */
+
+button:focus {
+}
+
+```
 
 <a name="css-syntax-and-formatting"></a>
 ### 4.3 Syntax and Formatting
