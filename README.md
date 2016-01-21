@@ -113,16 +113,8 @@ The basic structure of an HTML document:
 </html>
 ```
 
-<a name="html-syntax"></a>
-### 3.2 Syntax
-
-- HTML tag names and attribute values must be in lowercase
-- Use double quotes (`""`) around attribute values
-- Omit the `type` attribute when including style sheets and scripts
-- Use a new line for every [block-level](https://developer.mozilla.org/en-US/docs/Web/HTML/Block-level_elements) element
-
 <a name="html-terminology"></a>
-### 3.3 Terminology
+### 3.2 Terminology
 
 #### HTML Elements
 
@@ -147,6 +139,14 @@ Example of an end tag: `</p>`
 Attributes have a `name` and `value` and are specified in the element’s start tag.
 
 Example of an element’s attributes: `<img src="" alt="">`
+
+<a name="html-syntax"></a>
+### 3.3 Syntax
+
+- HTML tag names and attribute values must be in lowercase
+- Use double quotes (`""`) around attribute values
+- Omit the `type` attribute when including style sheets and scripts
+- Use a new line for every [block-level](https://developer.mozilla.org/en-US/docs/Web/HTML/Block-level_elements) element
 
 <a name="html-document-type-definition"></a>
 ### 3.4 Document Type Definition (DTD):
