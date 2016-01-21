@@ -14,8 +14,8 @@ Please [open an issue on GitHub](https://github.com/michaelthorne/codeguide/issu
 - [2. Browsers](#browsers)
 - [3. HTML](#html)
  - [3.1 General](#html-general)
- - [3.2 Syntax](#html-syntax)
- - [3.3 Terminology](#html-terminology)
+ - [3.2 Terminology](#html-terminology)
+ - [3.3 Syntax](#html-syntax)
  - [3.4 Document Type Definition (DTD)](#html-document-type-definition)
  - [3.5 Language](#html-language)
  - [3.6 Character Encoding](#html-character-encoding)
@@ -28,7 +28,7 @@ Please [open an issue on GitHub](https://github.com/michaelthorne/codeguide/issu
 - [4. CSS](#css)
  - [4.1 General](#css-general)
  - [4.2 Terminology](#css-terminology)
- - [4.3 Syntax and Formatting](#css-syntax-and-formatting)
+ - [4.3 Syntax](#css-syntax)
  - [4.4 Commenting](#css-commenting)
  - [4.5 Naming Conventions](#css-naming-conventions)
  - [4.6 Declaration Order](#css-declaration-order)
@@ -389,8 +389,8 @@ button:focus {
 }
 ```
 
-<a name="css-syntax-and-formatting"></a>
-### 4.3 Syntax and Formatting
+<a name="css-syntax"></a>
+### 4.3 Syntax
 
 <a name="css-commenting"></a>
 ### 4.4 Commenting
