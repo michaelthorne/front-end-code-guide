@@ -26,7 +26,7 @@ Please [open an issue on GitHub](https://github.com/michaelthorne/codeguide/issu
 - [4. CSS](#css)
  - [4.1 General](#css-general)
  - [4.2 Terminology](#css-terminology)
- - [4.3 Syntax](#css-syntax)
+ - [4.3 Syntax and Formatting](#css-syntax-and-formatting)
  - [4.4 Commenting](#css-commenting)
  - [4.5 Naming Conventions](#css-naming-conventions)
  - [4.6 Declaration Order](#css-declaration-order)
@@ -261,8 +261,8 @@ Ensure that you use valid HTML wherever possible. Use tools like the [W3C Markup
 <a name="css-terminology"></a>
 ### 4.2 Terminology
 
-<a name="css-syntax"></a>
-### 4.3 Syntax
+<a name="css-syntax-and-formatting"></a>
+### 4.3 Syntax and Formatting
 
 <a name="css-commenting"></a>
 ### 4.4 Commenting
