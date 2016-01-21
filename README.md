@@ -302,7 +302,7 @@ Ensure that you use valid HTML wherever possible. Use tools like the [W3C Markup
 
 This guide assumes that [Sass](http://sass-lang.com) will be used as the preprocessor to compile your CSS. The majority of the rules in this guide also apply to vanilla CSS, unless otherwise stated.
 
-The following features are primarily used:
+The features in Sass that we use are:
 
 - Variables
 - Nesting
