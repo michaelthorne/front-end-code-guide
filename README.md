@@ -286,8 +286,6 @@ For example:
 
 > A simple selector is either a type selector, universal selector, attribute selector, class selector, ID selector, or pseudo-class. – [W3C](https://www.w3.org/TR/2011/REC-css3-selectors-20110929/#selector-syntax)
 
-For example:
-
 #### Type
 
 ```
