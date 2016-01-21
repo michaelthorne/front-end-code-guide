@@ -237,7 +237,7 @@ This is an example of the recommended attribute order for a **div**:
 
 > The presence of a boolean attribute on an element represents the true value, and the absence of the attribute represents the false value. – [WHATWG](https://html.spec.whatwg.org/#boolean-attributes)
 
-In HTML5, the following variations for setting a boolean attribute to `true` are valid:
+In HTML5, the following variations for setting a boolean attribute to **true** are valid:
 
 ```
 autofocus
@@ -245,7 +245,7 @@ autofocus=""
 autofocus="autofocus"
 ```
 
-However, the preference is to not add a value. For example:
+However, the preference is to _not add a value_. For example:
 
 ```
 <input type="text" required>
