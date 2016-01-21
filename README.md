@@ -234,9 +234,23 @@ This is an example of the recommended attribute order for a **div**:
 <a name="html-semantics"></a>
 ### 3.8 Semantics
 
-Use the appropriate element when marking up your content to give it meaning on a web page. Semantic code describes the value of the content on a page, independent of it’s style.
+Use the appropriate element when marking up your content to give it meaning on a web page. Semantic code describes the value of the content on a page, independent of it’s style. Have a look at the [HTML5 Sectioning Element Flowchart](http://html5doctor.com/resources/#flowchart) if you get stuck.
 
-Have a look at the [HTML5 Sectioning Element Flowchart](http://html5doctor.com/resources/#flowchart) if you get stuck.
+Avoid adding superflous parent elements when writing HTML – reduce markup wherever possible.
+
+#### Not ideal
+
+```
+<span class="logo">
+    <img src="…">
+</span>
+```
+
+#### Much better
+
+```
+<img class="logo">
+```
 
 <a name="html-using-wai-aria"></a>
 ### 3.9 Using WAI-ARIA in HTML
