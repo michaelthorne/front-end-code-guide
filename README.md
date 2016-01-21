@@ -52,7 +52,7 @@ Please [open an issue on GitHub](https://github.com/michaelthorne/codeguide/issu
 
 Through the practice of [progressive enhancement and graceful degradation](http://alistapart.com/article/understandingprogressiveenhancement) a website _should_ render in any web browser. But yet the experience for each visitor will differ based on the features supported in the version of the browser in use.
 
-### Currently supported browsers
+### Currently supported browsers:
 
 - Chrome
 - Firefox
@@ -289,6 +289,7 @@ For example:
 
 For example:
 
+#### Type
 ```
 h1 {
 
@@ -296,7 +297,6 @@ h1 {
 ```
 
 #### Universal
-
 ```
 * {
 
@@ -304,7 +304,6 @@ h1 {
 ```
 
 #### Attribute
-
 ```
 a[rel="external"] {
 
@@ -312,7 +311,6 @@ a[rel="external"] {
 ```
 
 #### Class
-
 ```
 .hero {
 
@@ -320,7 +318,6 @@ a[rel="external"] {
 ```
 
 #### ID
-
 ```
 #top {
 
@@ -328,7 +325,6 @@ a[rel="external"] {
 ```
 
 #### Pseudo
-
 ```
 button:focus {
 
