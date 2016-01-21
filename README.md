@@ -256,6 +256,10 @@ Ensure that you use valid HTML wherever possible. Use tools like the [W3C Markup
 <a name="css-general"></a>
 ### 4.1 General
 
+> Every time you write inline styles in your markup, a front-end developer somewhere dies – whether it’s in a style tag or directly in the markup. Don’t do it. – [TMWtech](http://tech.tmw.co.uk/code/TMW-frontend-guidelines/)
+
+
+
 <a name="css-syntax"></a>
 ### 4.2 Syntax
 
@@ -293,4 +297,4 @@ Ensure that you use valid HTML wherever possible. Use tools like the [W3C Markup
 - [Idiomatic CSS by Nicolas Gallagher](https://github.com/necolas/idiomatic-css)
 - [CSS Guidelines by Harry Roberts](http://cssguidelin.es/)
 - [TMW Unlimited Front-End Dev guidelines](http://tech.tmw.co.uk/code/TMW-frontend-guidelines)
-- [Front end standards](http://www.yellowshoe.com.au/standards/)
+- [Front end standards by Mark Brown](http://www.yellowshoe.com.au/standards/)
