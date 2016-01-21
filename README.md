@@ -68,7 +68,7 @@ Through the practice of [progressive enhancement and graceful degradation](http:
 <a name="html-general"></a>
 ### 3.1 General
 
-This is the basic structure of an HTML document:
+The basic structure of an HTML document:
 
 ```html
 <!doctype html>
@@ -80,7 +80,7 @@ This is the basic structure of an HTML document:
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     
-    <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+    <link rel="apple-touch-icon" href="apple-touch-icon.png">
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
