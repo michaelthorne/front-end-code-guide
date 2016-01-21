@@ -254,7 +254,21 @@ However, the preference is to _not add a value_. For example:
 <a name="html-semantics"></a>
 ### 3.10 Semantics
 
-Use the appropriate element when marking up your content to give it meaning on a web page. Semantic code describes the value of the content on a page, independent of it’s style. Have a look at the [HTML5 Sectioning Element Flowchart](http://html5doctor.com/resources/#flowchart) if you get stuck.
+Use the appropriate element when marking up your content to give it meaning on a web page. Semantic code describes the value of the content on a page, independent of it’s style.
+
+#### Avoid
+
+```
+<div class="button">Submit</div>
+```
+
+#### Correct
+
+```
+<button>Submit</button>
+```
+
+Have a look at the [HTML5 Sectioning Element Flowchart](http://html5doctor.com/resources/#flowchart) if you get stuck.
 
 Avoid adding superflous parent elements when writing HTML – reduce markup wherever possible.
 
