@@ -21,9 +21,10 @@ Please [open an issue on GitHub](https://github.com/michaelthorne/codeguide/issu
  - [3.6 Character Encoding](#html-character-encoding)
  - [3.7 Internet Explorer Compatibility Mode](#html-internet-explorer-compatibility-mode)
  - [3.8 Attribute Order](#html-attribute-order)
- - [3.9 Semantics](#html-semantics)
- - [3.10 Using WAI-ARIA in HTML](#html-using-wai-aria)
- - [3.11 Validation](#html-validation)
+ - [3.9 Boolean Attributes](#html-boolean-attributes)
+ - [3.10 Semantics](#html-semantics)
+ - [3.11 Using WAI-ARIA in HTML](#html-using-wai-aria)
+ - [3.12 Validation](#html-validation)
 - [4. CSS](#css)
  - [4.1 General](#css-general)
  - [4.2 Terminology](#css-terminology)
@@ -231,8 +232,27 @@ This is an example of the recommended attribute order for a **div**:
 <div class="…" id="…" aria-controls="…" role="…">
 ```
 
+<a name="html-boolean-attributes"></a>
+### 3.8 Boolean Attributes
+
+> The presence of a boolean attribute on an element represents the true value, and the absence of the attribute represents the false value. – [WHATWG](https://html.spec.whatwg.org/#boolean-attributes)
+
+In HTML5, the following variations for setting a boolean attribute to `true` are valid:
+
+```
+autofocus
+autofocus=""
+autofocus="autofocus"
+```
+
+However, the preference is to not add a value. For example:
+
+```
+<input type="text" required>
+```
+
 <a name="html-semantics"></a>
-### 3.8 Semantics
+### 3.9 Semantics
 
 Use the appropriate element when marking up your content to give it meaning on a web page. Semantic code describes the value of the content on a page, independent of it’s style. Have a look at the [HTML5 Sectioning Element Flowchart](http://html5doctor.com/resources/#flowchart) if you get stuck.
 
@@ -253,7 +273,7 @@ Avoid adding superflous parent elements when writing HTML – reduce markup wher
 ```
 
 <a name="html-using-wai-aria"></a>
-### 3.9 Using WAI-ARIA in HTML
+### 3.10 Using WAI-ARIA in HTML
 
 The main goal of the ARIA specification is to improve the overall accessibility of websites.
 
@@ -262,7 +282,7 @@ The main goal of the ARIA specification is to improve the overall accessibility 
 As per the W3C draft, [using WAI-ARIA in HTML](http://www.w3.org/TR/aria-in-html), rather use native HTML elements wherever possible as it will have the semantics and required behaviour built-in.
 
 <a name="html-validation"></a>
-### 3.10 Validation
+### 3.11 Validation
 
 Ensure that you use valid HTML wherever possible. Use tools like the [W3C Markup Validation Service](http://validator.w3.org) or the [Nu Markup Checker](http://validator.w3.org/nu). There is also a [grunt-html-validation](https://www.npmjs.org/package/grunt-html-validation) plugin which uses the W3C validator to check your HTML.
 
