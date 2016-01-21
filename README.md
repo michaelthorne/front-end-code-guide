@@ -1,6 +1,6 @@
 _This is a work in progress…_
 
-# HTML and CSS code guide
+# Front-end code guide
 
 ## Overview
 
@@ -79,7 +79,7 @@ The basic structure of an HTML document:
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>HTML and CSS code guide</title>
+    <title>Front-end code guide</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     
