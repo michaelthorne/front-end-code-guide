@@ -249,7 +249,7 @@ Avoid adding superflous parent elements when writing HTML – reduce markup wher
 #### Much better
 
 ```
-<img class="logo">
+<img class="logo" src="…">
 ```
 
 <a name="html-using-wai-aria"></a>
