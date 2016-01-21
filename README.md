@@ -273,14 +273,16 @@ A rule set (also called "rule") consists of a selector followed by a declaration
 }
 ```
 
+> A selector is a chain of one or more sequences of simple selectors separated by combinators. One pseudo-element may be appended to the last sequence of simple selectors in a selector. – [W3C](https://www.w3.org/TR/2011/REC-css3-selectors-20110929/#selector-syntax)
+
 For example:
 
 ```
-.foo {
-    background-color: white;
-    padding: 1em;
+.foo,
+.bar {
+    background-color: red;
+    color: white;
 }
-```
 
 <a name="css-syntax-and-formatting"></a>
 ### 4.3 Syntax and Formatting
