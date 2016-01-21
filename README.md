@@ -381,6 +381,42 @@ button:focus {
 }
 ```
 
+> Combinators are: whitespace, "greater-than sign" (U+003E, >), "plus sign" (U+002B, +) and "tilde" (U+007E, ~). – [W3C](https://www.w3.org/TR/2011/REC-css3-selectors-20110929/#selector-syntax)
+
+For example:
+
+#### Descendant combinator
+
+```
+nav a {
+
+}
+```
+
+#### Child combinator
+
+```
+ul > li {
+
+}
+```
+
+#### Adjacent sibling
+
+```
+p + h2 {
+
+}
+```
+
+#### General sibling
+
+```
+div ~ hr {
+
+}
+```
+
 <a name="css-syntax"></a>
 ### 4.3 Syntax
 
