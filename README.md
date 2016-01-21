@@ -38,8 +38,8 @@ Please [open an issue on GitHub](https://github.com/michaelthorne/codeguide/issu
 ## 1. General
 
 - There must always be a clear separation of concerns: structure, presentation and behavior
-- Keep your code readable and easy to understand
 - Indentation must be 4 spaces (and not tabs)
+- Make meaningful use of whitespace
 - Consider a sensible maximum for line-length e.g. **80 character** wide columns
 - Remove any trailing whitespace from the end of each line
 - [EditorConfig](http://editorconfig.org) can help maintain the basic whitespace conventions
