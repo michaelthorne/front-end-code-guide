@@ -41,7 +41,6 @@ Please [open an issue on GitHub](https://github.com/michaelthorne/codeguide/issu
 - Keep your code readable and easy to understand
 - Consider a sensible maximum for line-length e.g. **80 character** wide columns
 - Indentation must be 4 spaces (and not tabs)
-- Use whitespace to _improve_ readability of the code
 - [EditorConfig](http://editorconfig.org) can help maintain the basic whitespace conventions
 - When in doubt use existing, common patterns or refer to other [guidelines](#6-inspiration--credits)
 
