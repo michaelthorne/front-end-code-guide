@@ -265,6 +265,23 @@ This guide assumes that [Sass](http://sass-lang.com) will be used as the preproc
 <a name="css-terminology"></a>
 ### 4.2 Terminology
 
+A rule set (also called "rule") consists of a selector followed by a declaration block.
+
+```
+[selector] {
+    [property]: [value];
+}
+```
+
+For example:
+
+```
+.foo {
+    background-color: white;
+    padding: 1em;
+}
+```
+
 <a name="css-syntax-and-formatting"></a>
 ### 4.3 Syntax and Formatting
 
