@@ -447,7 +447,7 @@ div ~ hr {
 <a name="inspiration-and-credits"></a>
 ## 7. Inspiration & Credits
 
-- [Google HTML/CSS Style Guide](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml)
+- [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.xml)
 - [Code Guide by Mark Otto](http://codeguide.co)
 - [Idiomatic CSS by Nicolas Gallagher](https://github.com/necolas/idiomatic-css)
 - [CSS Guidelines by Harry Roberts](http://cssguidelin.es/)
