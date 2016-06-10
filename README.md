@@ -57,7 +57,8 @@ Through the practice of [progressive enhancement and graceful degradation](http:
 
 - Chrome
 - Firefox
-- Internet Explorer 8+
+- Internet Explorer 9+
+- Microsoft Edge
 - Opera
 - Safari
 
