@@ -450,3 +450,4 @@ div ~ hr {
 - [CSS Guidelines by Harry Roberts](http://cssguidelin.es/)
 - [TMW Unlimited Front-End Dev guidelines](http://tech.tmw.co.uk/code/TMW-frontend-guidelines)
 - [Front end standards by Mark Brown](http://www.yellowshoe.com.au/standards/)
+- [Sass Guidelines](https://sass-guidelin.es)
