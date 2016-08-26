@@ -2,7 +2,7 @@ _This is a work in progress…_
 
 # Front-end Code Guide
 
-For HTML, CSS and JavaScript.
+For HTML, CSS (Sass) and JavaScript.
 
 ## Overview
 
@@ -426,11 +426,14 @@ div ~ hr {
 <a name="css-selectors"></a>
 ### 4.7 Selectors
 
+<a name="sass"></a>
+## 5. Sass
+
 <a name="javascript"></a>
-## 5. JavaScript
+## 6. JavaScript
 
 <a name="references"></a>
-## 6. References
+## 7. References
 
 - [Dive Into HTML5](http://diveintohtml5.info)
 - [HTML5 Doctor](http://html5doctor.com)
@@ -438,7 +441,7 @@ div ~ hr {
 - [World Wide Web Consortium (W3C)](http://www.w3.org)
 
 <a name="inspiration-and-credits"></a>
-## 7. Inspiration & Credits
+## 8. Inspiration & Credits
 
 - [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.xml)
 - [Code Guide by Mark Otto](http://codeguide.co)
