@@ -35,9 +35,10 @@ Please [open an issue on GitHub](https://github.com/michaelthorne/codeguide/issu
  - [4.5 Naming Conventions](#css-naming-conventions)
  - [4.6 Declaration Order](#css-declaration-order)
  - [4.7 Selectors](#css-selectors)
-- [5. JavaScript](#javascript)
-- [6. References](#references)
-- [7. Inspiration & Credits](#inspiration-and-credits)
+- [5. Sass](#sass)
+- [6. JavaScript](#javascript)
+- [7. References](#references)
+- [8. Inspiration & Credits](#inspiration-and-credits)
 
 <a name="general"></a>
 ## 1. General
