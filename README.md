@@ -1,6 +1,8 @@
 _This is a work in progress…_
 
-# HTML, CSS and JavaScript code guide
+# Front-end Code Guide
+
+For HTML, CSS and JavaScript
 
 ## Overview
 
