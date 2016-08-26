@@ -286,7 +286,14 @@ As per the W3C draft, [using WAI-ARIA in HTML](http://www.w3.org/TR/aria-in-html
 <a name="html-validation"></a>
 ### 3.12 Validation
 
-Ensure that you use valid HTML wherever possible. Use tools like the [W3C Markup Validation Service](http://validator.w3.org) or the [Nu Markup Checker](http://validator.w3.org/nu). There is also a [grunt-html-validation](https://www.npmjs.org/package/grunt-html-validation) plugin which uses the W3C validator to check your HTML.
+Use tools like the [W3C Markup Validation Service](http://validator.w3.org) or the [Nu Markup Checker](http://validator.w3.org/nu) to validate your markup.
+
+Reasons for validating:
+
+- Useful as a debugging tool, as modern browsers do a good job of fixing “tag soup” (malformed HTML)
+- Helps to future-proof your code by adhering to [Web Standards](https://www.w3.org/standards)
+- Improves maintainability over time by agreeing to a global code style
+- Teaches best practices to newcomers
 
 <a name="css"></a>
 ## 4. CSS
