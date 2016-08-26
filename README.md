@@ -37,8 +37,9 @@ Please [open an issue on GitHub](https://github.com/michaelthorne/codeguide/issu
  - [4.7 Selectors](#css-selectors)
 - [5. Sass](#sass)
 - [6. JavaScript](#javascript)
-- [7. References](#references)
-- [8. Inspiration & Credits](#inspiration-and-credits)
+- [7. Linting](#linting)
+- [8. References](#references)
+- [9. Inspiration & Credits](#inspiration-and-credits)
 
 <a name="general"></a>
 ## 1. General
@@ -433,8 +434,11 @@ div ~ hr {
 <a name="javascript"></a>
 ## 6. JavaScript
 
+<a name="linting"></a>
+## 7. Linting
+
 <a name="references"></a>
-## 7. References
+## 8. References
 
 - [Dive Into HTML5](http://diveintohtml5.info)
 - [HTML5 Doctor](http://html5doctor.com)
@@ -442,7 +446,7 @@ div ~ hr {
 - [World Wide Web Consortium (W3C)](http://www.w3.org)
 
 <a name="inspiration-and-credits"></a>
-## 8. Inspiration & Credits
+## 9. Inspiration & Credits
 
 - [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.xml)
 - [Code Guide by Mark Otto](http://codeguide.co)
