@@ -290,10 +290,12 @@ Use tools like the [W3C Markup Validation Service](http://validator.w3.org) or t
 
 Reasons for validating:
 
-- Useful as a debugging tool, as modern browsers do a good job of fixing “tag soup” (malformed HTML)
+- Useful as a debugging tool (modern browsers do a good job of fixing “tag soup”)
 - Helps to future-proof your code by adhering to [Web Standards](https://www.w3.org/standards)
 - Improves maintainability over time by agreeing to a global code style
-- Teaches best practices to newcomers
+- Teaches best practices to newcomers and raises awareness of accessbility
+
+Continue reading about [why you should validate](https://validator.w3.org/docs/why.html).
 
 <a name="css"></a>
 ## 4. CSS
