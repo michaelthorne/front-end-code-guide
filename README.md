@@ -51,7 +51,7 @@ Please [open an issue on GitHub](https://github.com/michaelthorne/codeguide/issu
 <a name="browsers"></a>
 ## 2. Browsers
 
-Through the practice of [progressive enhancement and graceful degradation](http://alistapart.com/article/understandingprogressiveenhancement) a website _should_ render in any web browser. But yet the experience for each visitor will differ based on the features supported in the version of the browser in use.
+Through the practice of [progressive enhancement and graceful degradation](http://alistapart.com/article/understandingprogressiveenhancement) a website _should_ render in any web browser. But the experience for each visitor will differ based on the features supported in the version of the browser in use.
 
 ### Currently supported browsers:
 
