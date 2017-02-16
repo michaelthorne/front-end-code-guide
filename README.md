@@ -196,7 +196,7 @@ In order to improve the general readability of code, it is recommended to place 
 - `class`
 - `type`
 - `id`, `name`
-- `placeholder`, `value`, `maxlength`, `disabled`, `required`
+- `placeholder`, `value`, `maxlength`, 'checked`, `selected`, `disabled`, `required`
 - `for`, `href`, `src`, `srcset`
 - `action`, `method`, `href`, `target`
 - `width`, `height`
