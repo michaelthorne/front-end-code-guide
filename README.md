@@ -244,7 +244,7 @@ autofocus="autofocus"
 However, the preference is to _not add a value_. For example:
 
 ```
-<input type="text" required>
+<input type="text" autofocus>
 ```
 
 <a name="html-semantics"></a>
